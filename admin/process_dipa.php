@@ -50,7 +50,8 @@ if (isset($_POST['submit-dipa'])) {
             nama_tabel VARCHAR(255),
             berdasarkan VARCHAR(255),
             jenis VARCHAR(10),
-            status VARCHAR(20)
+            status VARCHAR(20),
+            jml_blokir BIGINT
         );
         ";
         if (!mysqli_query($koneksi, $createTableQuery)) {
@@ -74,8 +75,7 @@ if (isset($_POST['submit-dipa'])) {
         };
     };
 
-    $file_name = pathinfo($_FILES['filexls']['name'], PATHINFO_FILENAME);
-    $file_name = preg_replace('/[^a-zA-Z0-9_]/', '', $file_name);
+    $file_name = 'upload_' . date('Y-m-d_H-i-s'); // Format: upload_2024-03-21_15-30-45
     $file_data = $_FILES['filexls']['tmp_name'];
     
 
@@ -112,8 +112,8 @@ if (isset($_POST['submit-dipa'])) {
         $kd_bid = "";
 
 
-        $stmt = $koneksi->prepare("INSERT INTO dipa (Kode_khusus, aea, kode_angka, kode_tunggal, nomor, baris_kode, akun, pic, uraian, rincian, kegiatan, pagu1, pagu2, kode, nama_tabel, jenis, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-        $stmt->bind_param("ssssissssiissssss", $kode_khusus, $Kode_Lengkap, $Kode_Angka, $Kode_Huruf_Tunggal, $nomor, $kode_asli, $akun, $pic, $uraian, $rincian, $kegiatan, $pagu1, $pagu2, $kode, $file_name, $jenis, $status);
+        $stmt = $koneksi->prepare("INSERT INTO dipa (Kode_khusus, aea, kode_angka, kode_tunggal, nomor, baris_kode, akun, pic, uraian, rincian, kegiatan, pagu1, pagu2, kode, nama_tabel, jenis, status, jml_blokir) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $stmt->bind_param("ssssissssiissssssi", $kode_khusus, $Kode_Lengkap, $Kode_Angka, $Kode_Huruf_Tunggal, $nomor, $kode_asli, $akun, $pic, $uraian, $rincian, $kegiatan, $pagu1, $pagu2, $kode, $file_name, $jenis, $status, $jml_blokir);
 
         
 
@@ -424,6 +424,9 @@ if (isset($_POST['submit-dipa'])) {
             };
 
             if ($start_collecting) {
+                // Hitung jml_blokir berdasarkan status
+                $jml_blokir = ($status === 'blokir') ? (int)($pagu2 / 2) : 0;
+
                 $batch[] = [
                     'kode_khusus' => $kode_khusus,
                     'kode_lengkap' => $Kode_Lengkap,
@@ -442,6 +445,7 @@ if (isset($_POST['submit-dipa'])) {
                     'nama_tabel' => $file_name,
                     'jenis' => $jenis,
                     'status' => $status,
+                    'jml_blokir' => $jml_blokir
                 ];
 
                 $nomor++; // Increment nomor for each row
@@ -449,7 +453,7 @@ if (isset($_POST['submit-dipa'])) {
                 if (count($batch) >= $batch_size) {
                     foreach ($batch as $data) {
                         $stmt->bind_param(
-                            "ssssissssiissssss",
+                            "ssssissssiissssssi",
                             $data['kode_khusus'],
                             $data['kode_lengkap'],
                             $data['Kode_angka'],
@@ -466,7 +470,8 @@ if (isset($_POST['submit-dipa'])) {
                             $data['kode'],
                             $data['nama_tabel'],
                             $data['jenis'],
-                            $data['status']
+                            $data['status'],
+                            $data['jml_blokir']
                         );
 
                         if (!$stmt->execute()) {
@@ -487,7 +492,7 @@ if (isset($_POST['submit-dipa'])) {
         // Insert remaining data in batch
         foreach ($batch as $data) {
             $stmt->bind_param(
-                "ssssissssiissssss",
+                "ssssissssiissssssi",
                 $data['kode_khusus'],
                 $data['kode_lengkap'],
                 $data['Kode_angka'],
@@ -504,7 +509,8 @@ if (isset($_POST['submit-dipa'])) {
                 $data['kode'],
                 $data['nama_tabel'],
                 $data['jenis'],
-                $data['status']
+                $data['status'],
+                $data['jml_blokir']
             );
 
             if (!$stmt->execute()) {
