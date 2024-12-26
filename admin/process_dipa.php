@@ -156,11 +156,12 @@ if (isset($_POST['submit-dipa'])) {
         $column_offsets['baris_kode'] = $column_offsets['a'];
         $column_offsets['uraian'] = $column_offsets['a'] + 1;
         $column_offsets['rincian'] = $column_offsets['a'] + 3;
-        $column_offsets['kegiatan'] =$column_offsets['a'] + 4;
-        $column_offsets['pagu1'] =$column_offsets['a'] + 5;
+        $column_offsets['kegiatan'] = $column_offsets['a'] + 4;
+        $column_offsets['pagu1'] = $column_offsets['a'] + 5;
         $column_offsets['pagu2'] = $column_offsets['a'] + 6;
         $column_offsets['jenis'] = $column_offsets['a'] + 7;
-        $column_offsets['status'] = $column_offsets['a'] + 8;
+        $column_offsets['status'] = $column_offsets['a'] + 7;
+        
         
        
         
@@ -345,16 +346,32 @@ if (isset($_POST['submit-dipa'])) {
                         
                     case $column_offsets['uraian']:
                         $value = getCellValue($cell);
+                        $jenis = "-"; // Default value
                         
                         if (!empty($value)) {
+                            // Debug: cek value yang masuk
+                            file_put_contents('debug.log', "Checking value: " . $value . "\n", FILE_APPEND);
+                            
                             if (strpos($value, '(') !== false || strpos($value, ')') !== false) {
                                 $jenis = "main";
+                                // Debug
+                                file_put_contents('debug.log', "Found main: " . $value . "\n", FILE_APPEND);
                             }
                             elseif (strpos($value, '>') !== false) {
                                 $jenis = "head";
                                 $nextColumn = \PhpOffice\PhpSpreadsheet\Cell\Coordinate::stringFromColumnIndex($columnIndex + 1);
                                 $nextCell = $worksheet->getCell($nextColumn . $row->getRowIndex());
                                 $value = getCellValue($nextCell);
+                                // Debug
+                                file_put_contents('debug.log', "Found head: " . $value . "\n", FILE_APPEND);
+                            }
+                            elseif (strpos($value, '-') !== false) {
+                                $jenis = "isi";
+                                $nextColumn = \PhpOffice\PhpSpreadsheet\Cell\Coordinate::stringFromColumnIndex($columnIndex + 1);
+                                $nextCell = $worksheet->getCell($nextColumn . $row->getRowIndex());
+                                $value = getCellValue($nextCell);
+                                // Debug
+                                file_put_contents('debug.log', "Found isi: " . $value . "\n", FILE_APPEND);
                             }
                         }
                         
@@ -366,10 +383,10 @@ if (isset($_POST['submit-dipa'])) {
                         $rincian = $value !== null && $value !== '' ? $value : $rincian_0;
                         break;
 
-                    case $column_offsets['status']:
-                        $value = getCellValue($cell);
-                        $status = (strpos($value, '*') !== false) ? 'blokir' : '';
-                        break;
+                            case $column_offsets['status']:
+                                $value = getCellValue($cell);
+                                $status = (strpos($value, '*') !== false) ? 'blokir' : '';
+                                break;
 
                     default:
                         if (isset($column_offsets['kegiatan']) && $columnIndex == $column_offsets['kegiatan']) {
