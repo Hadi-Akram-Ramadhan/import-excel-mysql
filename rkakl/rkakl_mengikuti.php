@@ -13,7 +13,7 @@ try {
 
     // Query untuk mengambil data unik dari kolom 'berdasarkan'
     $query = "SELECT DISTINCT berdasarkan FROM dipa WHERE berdasarkan IS NOT NULL";
-    $result = $conn->query($query);
+    $result = $koneksi->query($query);
 
     $data = [];
     if ($result->num_rows > 0) {
@@ -32,6 +32,6 @@ try {
     echo json_encode(['status' => 'error', 'message' => $e->getMessage()]);
 } finally {
     // Menutup koneksi
-    $conn->close();
+    $koneksi->close();
 }
 ?>
