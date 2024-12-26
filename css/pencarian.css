@@ -1,0 +1,114 @@
+/* Alias Variabel CSS */
+:root {
+    --primary-color: #333333;         /* Warna utama tombol dan border (abu-abu tua) */
+    --primary-hover: #555555;         /* Warna tombol saat di-hover (abu-abu lebih terang) */
+    --background-color: #f5f5f5;      /* Warna latar belakang halaman */
+    --text-color: #ffffff;            /* Warna teks tombol */
+    --input-padding: 0 10px;          /* Padding untuk input pencarian */
+    --button-padding: 0 10px;         /* Padding untuk tombol */
+    --font-size: 16px;                /* Ukuran font */
+    --border-radius-left: 30px 0 0 30px; /* Radius kiri bilah pencarian */
+    --border-radius-right: 0 30px 30px 0; /* Radius kanan tombol */
+    --box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Bayangan pada fokus */
+    --container-width: 500px;         /* Lebar form pencarian */
+    --input-height: 25px;             /* Tinggi input dan tombol */
+}
+
+/* Animasi Fade-in */
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeInAnimation 0.5s ease forwards;
+}
+
+/* Body */
+.pencarian-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--background-color);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Container Form Pencarian */
+.pencarian-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--container-width);
+    transition: width 0.5s ease, opacity 0.5s ease; /* Transisi untuk efek */
+    opacity: 1; /* Awalnya terlihat */
+}
+
+/* Kelas hidden untuk efek mengecil dan menghilang */
+.pencarian-container.hidden {
+    width: 0; /* Mengatur lebar menjadi 0 */
+    opacity: 0; /* Menghilang */
+}
+
+/* Form Pencarian */
+.pencarian-form {
+    display: flex;
+    width: 100%; /* Mengisi lebar kontainer */
+}
+
+/* Input Pencarian */
+.pencarian-input {
+    width: 100%;
+    height: var(--input-height);
+    padding: var(--input-padding);
+    font-size: var(--font-size);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--border-radius-left);
+    outline: none;
+    transition: 0.3s ease;
+}
+
+.pencarian-input:focus {
+    border-color: var(--primary-color);
+    box-shadow: var(--box-shadow);
+}
+
+/* Tombol Cari */
+.pencarian-button-cari {
+    height: var(--input-height);
+    padding: var(--button-padding);
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    border: none;
+    font-size: var(--font-size);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.pencarian-button-cari:hover {
+    background-color: var(--primary-hover);
+}
+
+/* Tombol Tutup */
+.pencarian-button-tutup {
+    height: var(--input-height);
+    padding: var(--button-padding);
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    border: none;
+    font-size: var(--font-size);
+    cursor: pointer;
+    border-radius: var(--border-radius-right);
+    transition: 0.3s ease;
+}
+
+.pencarian-button-tutup:hover {
+    background-color: var(--primary-hover);
+}

@@ -1,0 +1,14 @@
+.fade-in {
+    animation: fadeInUp 1.5s ease-in-out; /* Durasi dan easing animasi */
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0; /* Mulai tidak terlihat */
+        transform: translateY(20px); /* Mulai dari 20px di bawah posisinya */
+    }
+    100% {
+        opacity: 1; /* Menjadi terlihat */
+        transform: translateY(0); /* Kembali ke posisi normal */
+    }
+}
