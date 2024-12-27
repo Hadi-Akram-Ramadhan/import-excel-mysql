@@ -44,7 +44,7 @@ body {
 }
 
 .header {
-    position: fixed;
+    position: sticky;
     background-color: #ffffff;
     width: 100%;
     padding: 0.8rem 1.2rem;

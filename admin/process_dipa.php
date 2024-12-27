@@ -57,13 +57,19 @@ if (isset($_POST['submit-dipa'])) {
         );
         ";
         if (!mysqli_query($koneksi, $createTableQuery)) {
-            $errorcuy = true;
-            echo "Error creating table: " . mysqli_error($koneksi) . "<br>";
-        } else {
-            echo "Table created successfully<br>";
-            
+            $response = [
+                'success' => false,
+                'message' => "Error creating table: " . mysqli_error($koneksi)
+            ];
+            echo json_encode($response);
+            exit;
         }
 
+        $response = [
+            'success' => true,
+            'message' => "Table created successfully"
+        ];
+        echo json_encode($response);
     } else{
         $checkQuery = "SELECT * FROM dipa LIMIT 1";
         $checkResult = mysqli_query($koneksi, $checkQuery);

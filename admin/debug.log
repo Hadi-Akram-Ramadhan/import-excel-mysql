@@ -65153,3 +65153,3911 @@ Checking value: -
 Found isi: Pemeliharaan kendaraan operasional roda 4 [3 UNIT x 1 THN]
 Checking value: -
 Found isi: Pemeliharaan kendaraan operasional roda 4 Sewa [3 UNIT x 1 THN]
+Array
+(
+    [submit-dipa] => true
+)
+
+Array
+(
+    [filexls] => Array
+        (
+            [name] => wok.xlsx
+            [full_path] => wok.xlsx
+            [type] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+            [tmp_name] => C:\xampp\tmp\php2BA4.tmp
+            [error] => 0
+            [size] => 81109
+        )
+
+)
+Checking value: Program Perdagangan Dalam Negeri
+Checking value: Peningkatan Stabilitas Harga dan Pasokan Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Koordinasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Koordinasi dan Kunker Ketersediaan Bapok Dalam Kondisi Tertentu
+Checking value: Pelaksanaan Koordinasi dan Kunker
+Checking value: Koordinasi Dan Kunker Stabilisasi Harga Bapokting Dalam Kondisi Tertentu
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PENDAMPINGAN PIMPINAN DALAM RANGKA KOORDINASI DAN KUNJUNGAN KERJA
+Checking value: -
+Found isi: Penggandaan bahan [5 EKS x 20 KL]
+Checking value: -
+Found isi: Konsumsi Kunjungan Kerja Pimpinan [25 ORG x 20 KL]
+Checking value: >
+Found head: DALAM RANGKA PENYUSUNAN BAHAN PIMPINAN
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Bahan [10 EKS x 12 KL x 1 PKT]
+Checking value: -
+Found isi: Konsumsi Penyiapan Bahan Rapat Pimpinan [20 ORG x 12 KL x 1 PKT]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 20 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENDAMPINGAN PIMPINAN KEMENDAG PADA KUNKER PEMANTAUAN HARGA DAN KETERSEDIAAN BARANG KEBUTUHAN POKOK DAN BARANG PENTIN
+Checking value: -
+Found isi: Tiket [2 ORG x 20 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 20 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 20 DRH x 3 HR]
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI DENGAN INSTANSI TERKAIT
+Checking value: -
+Found isi: Tiket [2 ORG x 20 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 20 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 20 DRH x 3 HR]
+Checking value: Koordinasi Penyediaan Barang Kebutuhan Pokok Hasil Industri
+Checking value: Pelaksanaan Koordinasi Dalam Rangka Penyediaan Informasi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Koordinasi Dengan Instansi Lain Dalam Rangka Penyediaan Informasi Komoditi Bapok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Bahan
+Checking value: -
+Found isi: Penjilidan Laporan Akhir Kegiatan
+Checking value: -
+Found isi: Konsumsi Makan Rapat Koordinasi [25 ORG x 21 KL]
+Checking value: -
+Found isi: Konsumsi Kudapan Rapat Koordinasi [25 ORG x 21 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN/WORKSHOP/SIMPOSIUM/SEMINAR/STUDY BANDING
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: KEGIATAN DI PUSAT
+Checking value: -
+Found isi: Transport perjalanan kegiatan di pusat
+Checking value: Koordinasi Dalam Rangka Penyediaan Data Dengan Instansi Lain Terkait Komoditi Bapok Hasil Industri
+Checking value: Belanja Keperluan Perkantoran
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Langganan buletin komoditi hasil industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Bahan
+Checking value: -
+Found isi: Penjilidan laporan akhir kegiatan
+Checking value: -
+Found isi: Konsumsi makan rapat koordinasi [25 ORG x 9 KL]
+Checking value: -
+Found isi: Konsumsi kudapan rapat koordinasi [25 ORG x 9 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN/WORKSHOP/SIMPOSIUM/SEMINAR/STUDY BANDING
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: KEGIATAN DI PUSAT
+Checking value: -
+Found isi: Transport perjalanan kegiatan di pusat
+Checking value: Sosialisasi dan Diseminasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Diseminasi Kebijakan Perdagangan Komoditas Peternakan dan Perikanan
+Checking value: Diseminasi Kebijakan Komoditas Peternakan dan Perikanan
+Checking value: Diseminasi Kebijakan dan Regulasi Terkait Tata Cara Pelaporan Distribusi
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [50 ORG x 2 DRH]
+Checking value: -
+Found isi: Penggandaan Materi
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Ketua [1 ORG x 2 KL]
+Checking value: -
+Found isi: Anggota [3 ORG x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 DRH]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [2 UNIT x 2 DRH x 2 HR]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [2 ORG x 2 JPL x 2 DRH]
+Checking value: -
+Found isi: Moderator [2 ORG x 2 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [3 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Peserta dan Panitia [40 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Paket Pertemuan Fullday [50 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [50 ORG x 1 HR x 2 DRH]
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket [8 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [8 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [8 ORG x 2 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian Pelaksana [8 ORG x 2 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullday Pelaksana [8 ORG x 1 HR x 2 DRH]
+Checking value: Diseminasi Kebijakan dan Regulasi terkait barang kebutuhan pokok hasil industri
+Checking value: Diseminasi Regulasi
+Checking value: Diseminasi Kebijakan Dan Regulasi Terkait Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 1 KL]
+Checking value: -
+Found isi: Penggandaan materi [40 EKS x 1 KL]
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket [12 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [12 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Penginapan [12 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [12 ORG x 2 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [50 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta Fullday [50 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta Fullday [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Pelaksana Daerah [4 ORG x 1 HR x 1 KL]
+Checking value: Diseminasi Kebijakan Barang Penting
+Checking value: Diseminasi Regulasi
+Checking value: Diseminasi Kebijakan Komoditas Komoditas Pupuk Bersubsidi dan Bahan Berbahaya
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [35 ORG x 2 DRH]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi/Laporan Akhir [35 ORG x 2 DRH x 4 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan laporan akhir [3 EKS x 2 DRH x 50 KL]
+Checking value: -
+Found isi: Dokumentasi [1 PKT x 2 DRH]
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 10 KL]
+Checking value: -
+Found isi: Brosur/Leaflet Kebijakan
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN PENINGKATAN KINERJA PELAKU USAHA DI BIDANG DISTRIBUSI BARANG DALAM PENGAWASAN
+Checking value: -
+Found isi: Sewa kendaraan [2 UNIT x 2 HR x 2 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber Pusat dan Daerah [2 ORG x 2 JPL x 2 DRH]
+Checking value: -
+Found isi: Moderator [1 ORG x 3 KL x 2 KEG]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullboard [35 ORG x 1 HR x 2 DRH]
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket ( Pembicara  Panitia Pusat ) [4 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [4 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian ( Pembicara  Pelaksana ) [4 ORG x 2 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullboard Pelaksana Pusat [3 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullboard Peserta [35 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Transport Lokal Peserta [35 ORG x 1 HR x 2 DRH]
+Checking value: Fasilitasi dan Pembinaan Lembaga[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Pelatihan Kontributor Pemantau Bapok di Daerah
+Checking value: Pelatihan kontributor terhadap metodologi pemantauan dan pelaporan harga Bahan Pokok
+Checking value: Pelatihan Kontributor Terhadap Metodologi Pemantauan Dan Pelaporan Harga Bahan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi [30 EKS x 3 KL]
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandan dan Penjilidan Laporan Kegiatan
+Checking value: -
+Found isi: Konsumsi Rapat Persiapan [15 ORG x 3 KEG]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber [1 ORG x 2 JPL x 3 KEG]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 3 DRH]
+Checking value: -
+Found isi: Hotel [3 ORG x 3 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 DRH x 3 HR]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Harian Paket Meeting [30 ORG x 3 KEG]
+Checking value: -
+Found isi: Paket Meeting Fullboard luar kota [30 ORG x 3 KEG]
+Checking value: Pemantauan produk[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Pemantauan Perdagangan Komoditas Pertanian
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Identifikasi Dan Pemantauan Pelaku Usaha Perdagangan Komoditas Tanaman Pangan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [20 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 1 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 1 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [3 PKT x 1 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 1 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal pendamping di daerah [2 ORG x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Identifikasi Dan Pemantauan Pelaku Usaha Perdagangan Komoditas Hortikultura
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [20 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 1 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 1 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [2 PKT x 1 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 1 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Lokal Pendamping di Daerah [2 ORG x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pendampingan Pelaporan Pelaku Usaha Distribusi Bapok Pertanian
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Pendamping di Daerah [2 ORG x 2 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [25 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pemantauan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Pemantauan Pelaku Usaha Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI KEGIATAN PEMANTAUAN BAPOK HASIL PETERNAKAN DAN PERIKANAN
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 10 DRH]
+Checking value: Identifikasi Hambatan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 4 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 6 DRH]
+Checking value: Pemantauan Perdagangan Komoditas Hasil Industri
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Monitoring Ketersediaan Barang Kebutuhan Pokok Hasil Industri Di Tingkat Konsumen
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Konsumsi Rapat (makan) [25 ORG x 7 KL]
+Checking value: -
+Found isi: Konsumsi Rapat (snack) [25 ORG x 7 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan materi
+Checking value: -
+Found isi: Penggandaan/penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 7 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING BARANG KEBUTUHAN POKOK HASIL INDUSTRI (MINYAK GORENG, TEPUNG TERIGU DAN GULA KRISTAL RAFINASI)
+Checking value: -
+Found isi: Tiket [2 ORG x 23 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 23 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 23 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 23 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal dalam rangka menghadiri rapat dalam kota [2 ORG x 1 HR x 18 KL]
+Checking value: Monitoring Pelaku Usaha Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 14 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 14 KL]
+Checking value: -
+Found isi: Penggandaan bahan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies [1 PKT x 7 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Survey Distribusi Migor MinyaKIta
+Checking value: -
+Found isi: Survey Distribusi Pupuk
+Checking value: -
+Found isi: Survey Pelaku Distribusi Pangan
+Checking value: -
+Found isi: Kajian Distribusi Perdagangan Pangan Antar Wilayah
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PEMANTAUAN KETERSEDIAAN MINYAK GORENG SESUAI HET DAN PENDISTRIBUSIAN MGR
+Checking value: -
+Found isi: Tiket [3 ORG x 15 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 15 DRH]
+Checking value: -
+Found isi: Uang penginapan [3 ORG x 2 HR x 15 DRH]
+Checking value: -
+Found isi: Uang harian [3 ORG x 3 HR x 15 DRH]
+Checking value: Pemantauan Perdagangan Komoditas Barang Penting
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Pemantauan Pelaku Usaha Perdagangan Komoditi Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Laporan Akhir [15 EKS x 60 LBR]
+Checking value: -
+Found isi: Penggandaan dan penjilidan Bahan [14000 EKS x 5 KL]
+Checking value: -
+Found isi: Penggandaan Draft Laporan
+Checking value: >
+Found head: RAPAT PUSAT
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 15 KL]
+Checking value: -
+Found isi: Snack rapat [20 ORG x 15 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies
+Checking value: -
+Found isi: Pencetakan Buku Kebijakan Pupuk dan Bahan Berbahaya
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 15 DRH]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Video Perizinan Bahan Berbahaya
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Tiket [2 ORG x 15 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 15 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 15 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 15 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal di Pusat Menghadiri Rapat dan Pengumpulan Data
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Dinas Dalam Kota [3 ORG x 3 HR x 10 LOK]
+Checking value: Identifikasi Pelaku Usaha Perdagangan Komoditas Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BARANG PENTING
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BARANG PENTING
+Checking value: -
+Found isi: Tiket [2 ORG x 5 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 KL]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Pemantauan Pelaku Usaha Bahan Berbahaya
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BAHAN BERBAHAYA
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 16 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BAHAN BERBAHAYA
+Checking value: -
+Found isi: Tiket [2 ORG x 18 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 18 KL]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 18 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 18 KL]
+Checking value: Kebijakan Bidang Investasi dan Perdagangan[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Revisi Kebijakan Harga dan Distribusi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Koordinasi penyusunan rekomendasi kebijakan
+Checking value: Pelaksanaan FGD Terkait Komoditi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PERSIAPAN FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 3 KEG]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi [40 EKS x 3 KEG]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Laporan Akhir
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KEG]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyelenggaraan rapat paket fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport dan Uang Harian Peserta dan Panitia [35 ORG x 1 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang harian fullday peserta [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport peserta [30 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Tiket [10 ORG x 1 KL]
+Checking value: -
+Found isi: Uang penginapan [10 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang harian [10 ORG x 2 HR x 1 KL]
+Checking value: Revisi Kebijakan  Distribusi Barang Penting/Barang Dalam Pengawasan
+Checking value: Identifikasi Masalah
+Checking value: Pelaksanaan FGD Terkait Komoditi Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Spanduk
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Bahan Rapat/Laporan Akhir
+Checking value: -
+Found isi: Makan rapat persiapan [20 ORG x 3 KL x 2 DRH]
+Checking value: -
+Found isi: Snack rapat persiapan [20 ORG x 3 KL x 2 DRH]
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 5 KL]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber [4 ORG x 3 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyelenggaran rapat paket fullday [35 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Paket Fullday [35 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [40 ORG x 1 HR x 1 DRH]
+Checking value: -
+Found isi: Transport Peserta [35 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [35 ORG x 1 HR x 1 DRH]
+Checking value: Koordinasi Penyusunan
+Checking value: Penyusunan dan Penyempurnaan Kebijakan Yang Terkait Dengan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan Pembahasan [35 ORG x 1 KEG x 5 KL]
+Checking value: -
+Found isi: Snack Pembahasan [35 ORG x 1 KEG x 5 KL]
+Checking value: >
+Found head: DALAM RANGKA RAPAT KOORDINASI TINGKAT MENTERI/ESELON I
+Checking value: -
+Found isi: Penyusunan/penggandaan dan penjilidan laporan
+Checking value: -
+Found isi: Konsumsi Rapat dalam rangka Penyusunan dan Penyempurnaan Kebijakan [44 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan bahan rapat
+Checking value: -
+Found isi: Pembuatan Spanduk
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Transport Dalam Kota [35 ORG x 3 KL x 2 KEG]
+Checking value: Koordinasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Pertanian
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Penyediaan Informasi Perdagangan Bapok Tanaman Pangan Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN RAKOR/FGD
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 20 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [25 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [25 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Koordinasi Penyediaan Informasi Perdagangan Bapok Hortikultura Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [2 PKT x 2 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 9 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI
+Checking value: -
+Found isi: Tiket [2 ORG x 9 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 9 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 9 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 9 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN RAKOR/FGD
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 20 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [30 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [25 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pelaksanaan Forum Komunikasi dan Fasilitasi Perdagangan Bapok Pertanian Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [70 ORG x 2 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PANITIA DAERAH
+Checking value: -
+Found isi: Anggota [3 ORG x 2 KEG]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [2 UNIT x 2 HR x 2 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [5 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [85 ORG x 2 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [70 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [70 ORG x 2 KL]
+Checking value: -
+Found isi: Transport Lokal Panitia Daerah [2 ORG x 1 HR x 2 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [4 ORG x 2 KL]
+Checking value: -
+Found isi: Taksi [4 ORG x 2 KL]
+Checking value: -
+Found isi: Biaya Penginapan [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [4 ORG x 1 HR x 2 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [4 ORG x 2 KL]
+Checking value: -
+Found isi: Taksi [4 ORG x 2 KL]
+Checking value: -
+Found isi: Biaya Penginapan [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [4 ORG x 1 HR x 2 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Penyediaan Data dan Informasi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: -
+Found isi: Konsumsi Pendampingan [20 ORG x 2 KL]
+Checking value: -
+Found isi: Kudapan Pendampingan [20 ORG x 2 KL]
+Checking value: >
+Found head: DALAM RANGKA RAPAT KEGIATAN KOORDINASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack Rapat [25 ORG x 3 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 3 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI RAPAT DAN KEGIATAN KOORDINASI ANTAR INSTANSI DI DAERAH
+Checking value: -
+Found isi: Tiket [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 10 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 10 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Harian Petugas Daerah [2 ORG x 1 HR x 10 DRH]
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI, MENGHADIRI RAPAT, PENGUMPULAN DATA DI PUSAT
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 58 KL]
+Checking value: Forum Komunikasi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 4 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan/laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK  Komputer suplies [1 PKT x 4 KL]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA FGD BAPOK HASIL PETERNAKAN
+Checking value: -
+Found isi: Narasumber [2 ORG x 2 JPL x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA FGD (Tk. Es. 2)
+Checking value: -
+Found isi: Penyelenggaraan Paket Meeting Fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport lokal [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Uang harian paket fullday [35 ORG x 1 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Meeting Fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport peserta [30 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Tiket [8 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [8 ORG x 2 KL]
+Checking value: -
+Found isi: Penginapan [8 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang harian [8 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Pelaksana [8 ORG x 1 HR x 2 KL]
+Checking value: Pendampingan Pelaporan Distribusi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 6 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 6 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 5 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 6 DRH]
+Checking value: -
+Found isi: Uang Penginapan [3 ORG x 2 HR x 6 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping [2 ORG x 1 HR x 4 DRH]
+Checking value: Pemetaan Potensi Perdagangan Komoditas Hasil Peternakan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack Rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 4 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 6 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 6 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Hasil Industri
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Dalam Rangka Monitoring Kelancaran Pasokan Komoditi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 3 HR x 7 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 8 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 8 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 8 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal Pendamping Daerah [1 ORG x 1 HR x 15 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Barang Penting
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Perdagangan Komoditas Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan Rapat Biasa [60 ORG x 5 KL]
+Checking value: -
+Found isi: Snack Rapat Biasa [60 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: >
+Found head: DALAM RANGKA RAPAT KEGIATAN KOORDINASI
+Checking value: -
+Found isi: Makan Rapat Persiapan Kegiatan Koordinasi [50 ORG x 5 KL]
+Checking value: -
+Found isi: Snack Rapat Persiapan Kegiatan Koordinasi [50 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: -
+Found isi: Merchandise Narasumber [2 ORG x 3 KL x 5 PRSH]
+Checking value: -
+Found isi: Brosur [2 ORG x 5 KL x 5 PRSH x 20 LBR
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [4 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 3 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI RAPAT KEGIATAN KOORDINASI ANTAR INSTANSI DI DAERAH DAN PENDAMPINGAN KUNKER
+Checking value: -
+Found isi: Tiket [2 ORG x 5 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian Petugas Daerah [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI MENGHADIRI RAPAT PENGUMPULAN DATA DI PUSAT
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota
+Checking value: Koordinasi  Intervensi  Harga Bapok Menjelang HBKN
+Checking value: Koordinasi dalam rangka stabilisasi harga menjelang HBKN
+Checking value: Koordinasi Dalam Rangka Stabilisasi Harga Menjelang HBKN
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan [5 EKS x 25 KL]
+Checking value: -
+Found isi: Konsumsi rapat persiapan [20 ORG x 10 KEG]
+Checking value: -
+Found isi: Konsumsi Kunjungan Kerja Pimpinan [30 ORG x 25 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 25 DRH x 2 HR]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pemantauan Harga Bapok Periode HBKN
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 25 DRH]
+Checking value: -
+Found isi: Hotel [3 ORG x 25 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 25 DRH x 3 HR]
+Checking value: Data dan Informasi Publik[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Penyediaan Data Harga Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Mengumpulkan, Mengolah dan Mempublikasikan Data Harga Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Pengumpulan, Pengolahan Dan Publikasi Harga Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENYUSUNAN BAHAN PUBLIKASI
+Checking value: -
+Found isi: Konsumsi rapat pembahasan [20 ORG x 12 KL]
+Checking value: -
+Found isi: Pencetakan buku statistik harga barang kebutuhan pokok dan Barang Penting
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Koordinasi Penguatan Data Bapokting
+Checking value: Koordinasi Penguatan Data Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Konsumsi rapat [15 ORG x 12 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 25 DRH x 1 HR]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 30 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 2 HR x 30 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 30 DRH]
+Checking value: Peningkatan Kualitas dan Ketersediaan Data Harga dan Stok
+Checking value: Pemantauan Stok Dan Pasokan Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyediaan Data Harga dan Pasokan  Cabe dan Bawang di Pasar Induk Wilayah Barat
+Checking value: -
+Found isi: Penyediaan Data Harga dan Pasokan Cabe dan Bawang di Pasar Induk Wilayah Timur
+Checking value: Operasionalisasi Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP)
+Found main: Operasionalisasi Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP)
+Checking value: Aktivasi Sistem Pemantauan Harga Barang Kebutuhan Pokok Dan Barang Penting Kementerian Perdagangan
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Honor Kontributor Data Harga di Pasar Rakyat di Kabupaten/Kota [548 DRH x 244 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Timur
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Tengah
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Barat
+Checking value: -
+Found isi: Pemantauan Harga Barang Penting
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Kontributor 2 Pasar Induk [2 PSR x 240 KL]
+Checking value: -
+Found isi: Transport Lokal validasi data harga di Pasar Rakyat [5 PSR x 4 KL x 12 BLN]
+Checking value: -
+Found isi: Transport Lokal Pertemuan Stabilisasi Harga Barang Kebutuhan Pokok dan Barang Penting [3 ORG x 5 KL x 12 BL]
+Checking value: Program Dukungan Manajemen
+Checking value: Dukungan Manajemen dan Dukungan Teknis Lainnya Ditjen Perdagangan Dalam Negeri
+Checking value: Layanan Dukungan Manajemen Internal[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Layanan Organisasi dan Tata Kelola Internal
+Checking value: Layanan Dukungan Manajemen Direktorat BAPOKTING
+Checking value: Monitoring Pelaksanaan Program Direktorat
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Laporan Kinerja [1 PKT x 2 SMT]
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan [1 PKT x 2 SMT]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK Komputer supplies
+Checking value: Pengelolaan Keuangan Dan BMN
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN SAI
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Lap SAI [4 TW x 2 LAP x 6 EKS]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN SAI
+Checking value: -
+Found isi: ATK dan komputer supplies [12 BLN x 1 PKT]
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN BMN
+Checking value: -
+Found isi: ATK dan Komputer Supplies [12 BLN x 1 PKT]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN KEUANGAN DAN BMN
+Checking value: -
+Found isi: Transport Lokal Petugas Administrasi Keuangan [2 ORG x 12 BLN x 2 KL]
+Checking value: Penguatan Pembinaan Kinerja Internal
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK  Komputer Supplies [1 PKT]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pelatihan diversity, equity, and inclusion (DEI)
+Checking value: -
+Found isi: Fasilitasi Pelatihan Dalam Rangka HUT RI [1 KL x 1 PKT]
+Checking value: -
+Found isi: Fasilitasi Pelatihan Olahraga Bagi Pegawai [12 BLN x 1 PKT]
+Checking value: Keikutsertaan Pada Sosialisasi/Workshop/Seminar/Forum/Pelaksanaan Kegiatan Internal
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 22 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 22 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 22 KL x 3 HR]
+Checking value: -
+Found isi: Penginapan [2 ORG x 22 KL x 2 HR]
+Checking value: Layanan Perkantoran
+Checking value: Operasional dan Pemeliharaan Kantor
+Checking value: Operasional Kantor
+Checking value: Belanja Keperluan Perkantoran
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Keperluan sehari-hari perkantoran di dalam negeri [51 PEG x 1 THN]
+Checking value: -
+Found isi: Supir [1 ORG x 13 BLN]
+Checking value: Belanja Honor Operasional Satuan Kerja
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Kuasa pengguna anggaran [1 ORG x 12 BL]
+Checking value: -
+Found isi: Pejabat pembuat komitmen [1 ORG x 12 BL]
+Checking value: -
+Found isi: Penguji/penandatangan SPM [1 ORG x 12 BL]
+Checking value: -
+Found isi: Bendahara pengeluaran [1 ORG x 12 BL]
+Checking value: -
+Found isi: Staff pengelola keuangan [3 ORG x 12 BL]
+Checking value: -
+Found isi: Penanggung jawab SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Koordinator SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Ketua SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Petugas SAI tk UAKPA [2 ORG x 12 BL]
+Checking value: -
+Found isi: Pengurus/Penyimpan BMN [1 ORG x 12 BLN]
+Checking value: -
+Found isi: Pejabat pengadaan barang dan jasa [1 ORG x 12 BL]
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan dalam rangka rapat pimpinan [15 ORG x 12 KL]
+Checking value: -
+Found isi: Snack dalam rangka rapat pimpinan [15 ORG x 12 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PENGADAAN TATA USAHA PIMPINAN
+Checking value: -
+Found isi: Pengadaan ATK dan komputer supplies
+Checking value: >
+Found head: PENGADAAN TATA USAHA
+Checking value: -
+Found isi: Pengadaan ATK dan komputer supplies
+Checking value: Belanja Langganan Telepon
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Biaya telepon dan data Internet [12 BL x 1 PKT]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: SEWA KENDARAAN OPERASIONAL
+Checking value: -
+Found isi: Sewa kendaraan Operasional Roda 4 [1 UNIT x 12 BLN]
+Checking value: -
+Found isi: Sewa Kendaraan Daerah Roda 4 [1 UNIT x 19 DRH x 3 HR]
+Checking value: >
+Found head: DUKUNGAN INPRES NOMOR 7 TAHUN 2022
+Checking value: -
+Found isi: Sewa Kendaraan Operasional Listrik [1 UNIT x 12 BLN]
+Checking value: >
+Found head: SEWA LAINNYA
+Checking value: -
+Found isi: Sewa mesin fotocopy [2 UNIT x 12 BLN]
+Checking value: -
+Found isi: Sewa Kembang [3 PKT x 12 BLN]
+Checking value: -
+Found isi: Sewa Air Purefier [1 UNIT x 12 BLN]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PERJALANAN PIMPINAN/PENUGASAN PIMPINAN DALAM NEGERI
+Checking value: -
+Found isi: Tiket [1 ORG x 18 DRH]
+Checking value: -
+Found isi: Taksi [1 ORG x 18 DRH]
+Checking value: -
+Found isi: Uang penginapan [1 ORG x 2 HR x 18 DRH]
+Checking value: -
+Found isi: Uang harian [1 ORG x 3 HR x 18 DRH]
+Checking value: -
+Found isi: Uang Representasi [1 ORG x 18 DRH x 3 HR]
+Checking value: >
+Found head: PENUGASAN PIMPINAN DALAM NEGERI
+Checking value: -
+Found isi: Tiket [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 10 DRH]
+Checking value: -
+Found isi: Uang harian [2 ORG x 3 HR x 10 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA OPERASIONAL KANTOR
+Checking value: -
+Found isi: Satuan Biaya Transport Kegiatan Dalam Kabupaten/Kota Pergi Pulang (PP) [2 ORG x 6 KL x 12 BL]
+Checking value: Pemeliharaan
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pest Control [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Penataan Ruang Fasilitas Pegawai
+Checking value: -
+Found isi: Disinfektan Ruang Kerja [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Sanitary dan Pengharum ruangan [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Perawatan karpet [1 PKT x 12 BLN]
+Checking value: Belanja Pemeliharaan Peralatan dan Mesin
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: BIAYA PERPANJANGAN STNK
+Checking value: -
+Found isi: Kendaraan eselon 2
+Checking value: -
+Found isi: Kendaraan dinas operasional roda 2
+Checking value: -
+Found isi: Kendaraan dinas operasional roda 4
+Checking value: -
+Found isi: Kendaraan Eselon II Nomor Khusus
+Checking value: Belanja Pemeliharaan Peralatan dan Mesin Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PEMELIHARAAN PERALATAN KANTOR
+Checking value: -
+Found isi: Pemeliharaan Inventaris Kantor [51 PEG x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan Personal Computer/Notebook [43 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan Printer [10 PEG x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan AC Split [14 UNIT x 1 THN]
+Checking value: -
+Found isi: Elektronik Lainnya [20 UNIT x 1 THN]
+Checking value: -
+Found isi: Alat Elektronik Lainnya [50 UNIT x 1 THN]
+Checking value: >
+Found head: PEMELIHARAAN KENDARAAN DINAS
+Checking value: -
+Found isi: Pemeliharaan kendaraan dinas eselon 2 [1 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan dinas operasional roda 2 [4 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan operasional roda 4 [3 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan operasional roda 4 Sewa [3 UNIT x 1 THN]
+Array
+(
+    [submit-dipa] => true
+)
+
+Array
+(
+    [filexls] => Array
+        (
+            [name] => wok.xlsx
+            [full_path] => wok.xlsx
+            [type] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+            [tmp_name] => C:\xampp\tmp\php4B78.tmp
+            [error] => 0
+            [size] => 81109
+        )
+
+)
+Checking value: Program Perdagangan Dalam Negeri
+Checking value: Peningkatan Stabilitas Harga dan Pasokan Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Koordinasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Koordinasi dan Kunker Ketersediaan Bapok Dalam Kondisi Tertentu
+Checking value: Pelaksanaan Koordinasi dan Kunker
+Checking value: Koordinasi Dan Kunker Stabilisasi Harga Bapokting Dalam Kondisi Tertentu
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PENDAMPINGAN PIMPINAN DALAM RANGKA KOORDINASI DAN KUNJUNGAN KERJA
+Checking value: -
+Found isi: Penggandaan bahan [5 EKS x 20 KL]
+Checking value: -
+Found isi: Konsumsi Kunjungan Kerja Pimpinan [25 ORG x 20 KL]
+Checking value: >
+Found head: DALAM RANGKA PENYUSUNAN BAHAN PIMPINAN
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Bahan [10 EKS x 12 KL x 1 PKT]
+Checking value: -
+Found isi: Konsumsi Penyiapan Bahan Rapat Pimpinan [20 ORG x 12 KL x 1 PKT]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 20 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENDAMPINGAN PIMPINAN KEMENDAG PADA KUNKER PEMANTAUAN HARGA DAN KETERSEDIAAN BARANG KEBUTUHAN POKOK DAN BARANG PENTIN
+Checking value: -
+Found isi: Tiket [2 ORG x 20 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 20 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 20 DRH x 3 HR]
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI DENGAN INSTANSI TERKAIT
+Checking value: -
+Found isi: Tiket [2 ORG x 20 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 20 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 20 DRH x 3 HR]
+Checking value: Koordinasi Penyediaan Barang Kebutuhan Pokok Hasil Industri
+Checking value: Pelaksanaan Koordinasi Dalam Rangka Penyediaan Informasi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Koordinasi Dengan Instansi Lain Dalam Rangka Penyediaan Informasi Komoditi Bapok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Bahan
+Checking value: -
+Found isi: Penjilidan Laporan Akhir Kegiatan
+Checking value: -
+Found isi: Konsumsi Makan Rapat Koordinasi [25 ORG x 21 KL]
+Checking value: -
+Found isi: Konsumsi Kudapan Rapat Koordinasi [25 ORG x 21 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN/WORKSHOP/SIMPOSIUM/SEMINAR/STUDY BANDING
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: KEGIATAN DI PUSAT
+Checking value: -
+Found isi: Transport perjalanan kegiatan di pusat
+Checking value: Koordinasi Dalam Rangka Penyediaan Data Dengan Instansi Lain Terkait Komoditi Bapok Hasil Industri
+Checking value: Belanja Keperluan Perkantoran
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Langganan buletin komoditi hasil industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Bahan
+Checking value: -
+Found isi: Penjilidan laporan akhir kegiatan
+Checking value: -
+Found isi: Konsumsi makan rapat koordinasi [25 ORG x 9 KL]
+Checking value: -
+Found isi: Konsumsi kudapan rapat koordinasi [25 ORG x 9 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN/WORKSHOP/SIMPOSIUM/SEMINAR/STUDY BANDING
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI INSTANSI/ PENDAMPINGAN KUNKER PIMPINAN
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: KEGIATAN DI PUSAT
+Checking value: -
+Found isi: Transport perjalanan kegiatan di pusat
+Checking value: Sosialisasi dan Diseminasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Diseminasi Kebijakan Perdagangan Komoditas Peternakan dan Perikanan
+Checking value: Diseminasi Kebijakan Komoditas Peternakan dan Perikanan
+Checking value: Diseminasi Kebijakan dan Regulasi Terkait Tata Cara Pelaporan Distribusi
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [50 ORG x 2 DRH]
+Checking value: -
+Found isi: Penggandaan Materi
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Ketua [1 ORG x 2 KL]
+Checking value: -
+Found isi: Anggota [3 ORG x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 DRH]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [2 UNIT x 2 DRH x 2 HR]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [2 ORG x 2 JPL x 2 DRH]
+Checking value: -
+Found isi: Moderator [2 ORG x 2 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [3 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Peserta dan Panitia [40 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Paket Pertemuan Fullday [50 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [50 ORG x 1 HR x 2 DRH]
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket [8 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [8 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [8 ORG x 2 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian Pelaksana [8 ORG x 2 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullday Pelaksana [8 ORG x 1 HR x 2 DRH]
+Checking value: Diseminasi Kebijakan dan Regulasi terkait barang kebutuhan pokok hasil industri
+Checking value: Diseminasi Regulasi
+Checking value: Diseminasi Kebijakan Dan Regulasi Terkait Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 1 KL]
+Checking value: -
+Found isi: Penggandaan materi [40 EKS x 1 KL]
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket [12 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [12 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Penginapan [12 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [12 ORG x 2 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [50 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta Fullday [50 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta Fullday [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Pelaksana Daerah [4 ORG x 1 HR x 1 KL]
+Checking value: Diseminasi Kebijakan Barang Penting
+Checking value: Diseminasi Regulasi
+Checking value: Diseminasi Kebijakan Komoditas Komoditas Pupuk Bersubsidi dan Bahan Berbahaya
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [35 ORG x 2 DRH]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi/Laporan Akhir [35 ORG x 2 DRH x 4 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan laporan akhir [3 EKS x 2 DRH x 50 KL]
+Checking value: -
+Found isi: Dokumentasi [1 PKT x 2 DRH]
+Checking value: -
+Found isi: Spanduk
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 10 KL]
+Checking value: -
+Found isi: Brosur/Leaflet Kebijakan
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN PENINGKATAN KINERJA PELAKU USAHA DI BIDANG DISTRIBUSI BARANG DALAM PENGAWASAN
+Checking value: -
+Found isi: Sewa kendaraan [2 UNIT x 2 HR x 2 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber Pusat dan Daerah [2 ORG x 2 JPL x 2 DRH]
+Checking value: -
+Found isi: Moderator [1 ORG x 3 KL x 2 KEG]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullboard [35 ORG x 1 HR x 2 DRH]
+Checking value: >
+Found head: DALAM RANGKA PELAKSANAAN
+Checking value: -
+Found isi: Tiket ( Pembicara  Panitia Pusat ) [4 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [4 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian ( Pembicara  Pelaksana ) [4 ORG x 2 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullboard Pelaksana Pusat [3 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Uang Harian Fullboard Peserta [35 ORG x 1 HR x 2 DRH]
+Checking value: -
+Found isi: Transport Lokal Peserta [35 ORG x 1 HR x 2 DRH]
+Checking value: Fasilitasi dan Pembinaan Lembaga[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Pelatihan Kontributor Pemantau Bapok di Daerah
+Checking value: Pelatihan kontributor terhadap metodologi pemantauan dan pelaporan harga Bahan Pokok
+Checking value: Pelatihan Kontributor Terhadap Metodologi Pemantauan Dan Pelaporan Harga Bahan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi [30 EKS x 3 KL]
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandan dan Penjilidan Laporan Kegiatan
+Checking value: -
+Found isi: Konsumsi Rapat Persiapan [15 ORG x 3 KEG]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber [1 ORG x 2 JPL x 3 KEG]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 3 DRH]
+Checking value: -
+Found isi: Hotel [3 ORG x 3 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 DRH x 3 HR]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Harian Paket Meeting [30 ORG x 3 KEG]
+Checking value: -
+Found isi: Paket Meeting Fullboard luar kota [30 ORG x 3 KEG]
+Checking value: Pemantauan produk[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Pemantauan Perdagangan Komoditas Pertanian
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Identifikasi Dan Pemantauan Pelaku Usaha Perdagangan Komoditas Tanaman Pangan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [20 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 1 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 1 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [3 PKT x 1 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 1 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal pendamping di daerah [2 ORG x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Identifikasi Dan Pemantauan Pelaku Usaha Perdagangan Komoditas Hortikultura
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [20 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 1 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 1 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [2 PKT x 1 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 1 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Lokal Pendamping di Daerah [2 ORG x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pendampingan Pelaporan Pelaku Usaha Distribusi Bapok Pertanian
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 4 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 4 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [25 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 1 HR x 6 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 1 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 6 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Pendamping di Daerah [2 ORG x 2 HR x 6 DRH]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [25 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [25 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [20 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [20 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pemantauan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Pemantauan Pelaku Usaha Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI KEGIATAN PEMANTAUAN BAPOK HASIL PETERNAKAN DAN PERIKANAN
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 10 DRH]
+Checking value: Identifikasi Hambatan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 4 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 6 DRH]
+Checking value: Pemantauan Perdagangan Komoditas Hasil Industri
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Monitoring Ketersediaan Barang Kebutuhan Pokok Hasil Industri Di Tingkat Konsumen
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Konsumsi Rapat (makan) [25 ORG x 7 KL]
+Checking value: -
+Found isi: Konsumsi Rapat (snack) [25 ORG x 7 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan materi
+Checking value: -
+Found isi: Penggandaan/penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 7 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 2 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING BARANG KEBUTUHAN POKOK HASIL INDUSTRI (MINYAK GORENG, TEPUNG TERIGU DAN GULA KRISTAL RAFINASI)
+Checking value: -
+Found isi: Tiket [2 ORG x 23 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 23 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 23 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 23 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal dalam rangka menghadiri rapat dalam kota [2 ORG x 1 HR x 18 KL]
+Checking value: Monitoring Pelaku Usaha Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 14 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 14 KL]
+Checking value: -
+Found isi: Penggandaan bahan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies [1 PKT x 7 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Survey Distribusi Migor MinyaKIta
+Checking value: -
+Found isi: Survey Distribusi Pupuk
+Checking value: -
+Found isi: Survey Pelaku Distribusi Pangan
+Checking value: -
+Found isi: Kajian Distribusi Perdagangan Pangan Antar Wilayah
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PEMANTAUAN KETERSEDIAAN MINYAK GORENG SESUAI HET DAN PENDISTRIBUSIAN MGR
+Checking value: -
+Found isi: Tiket [3 ORG x 15 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 15 DRH]
+Checking value: -
+Found isi: Uang penginapan [3 ORG x 2 HR x 15 DRH]
+Checking value: -
+Found isi: Uang harian [3 ORG x 3 HR x 15 DRH]
+Checking value: Pemantauan Perdagangan Komoditas Barang Penting
+Checking value: Pelaksanaan Pemantauan dan Monitoring
+Checking value: Pemantauan Pelaku Usaha Perdagangan Komoditi Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Laporan Akhir [15 EKS x 60 LBR]
+Checking value: -
+Found isi: Penggandaan dan penjilidan Bahan [14000 EKS x 5 KL]
+Checking value: -
+Found isi: Penggandaan Draft Laporan
+Checking value: >
+Found head: RAPAT PUSAT
+Checking value: -
+Found isi: Makan Rapat [20 ORG x 15 KL]
+Checking value: -
+Found isi: Snack rapat [20 ORG x 15 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies
+Checking value: -
+Found isi: Pencetakan Buku Kebijakan Pupuk dan Bahan Berbahaya
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 15 DRH]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Video Perizinan Bahan Berbahaya
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Tiket [2 ORG x 15 DRH]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 15 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 15 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 15 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal di Pusat Menghadiri Rapat dan Pengumpulan Data
+Checking value: >
+Found head: DALAM RANGKA SUPERVISI DISTRIBUSI BARANG PENTING
+Checking value: -
+Found isi: Dinas Dalam Kota [3 ORG x 3 HR x 10 LOK]
+Checking value: Identifikasi Pelaku Usaha Perdagangan Komoditas Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BARANG PENTING
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BARANG PENTING
+Checking value: -
+Found isi: Tiket [2 ORG x 5 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 KL]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: Pemantauan Pelaku Usaha Bahan Berbahaya
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan komputer supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BAHAN BERBAHAYA
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 16 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MONITORING KOMODITI BAHAN BERBAHAYA
+Checking value: -
+Found isi: Tiket [2 ORG x 18 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 18 KL]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 18 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 18 KL]
+Checking value: Kebijakan Bidang Investasi dan Perdagangan[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Revisi Kebijakan Harga dan Distribusi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Koordinasi penyusunan rekomendasi kebijakan
+Checking value: Pelaksanaan FGD Terkait Komoditi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PERSIAPAN FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 3 KEG]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Materi [40 EKS x 3 KEG]
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Laporan Akhir
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KEG]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyelenggaraan rapat paket fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport dan Uang Harian Peserta dan Panitia [35 ORG x 1 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang harian fullday peserta [40 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport peserta [30 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Tiket [10 ORG x 1 KL]
+Checking value: -
+Found isi: Uang penginapan [10 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang harian [10 ORG x 2 HR x 1 KL]
+Checking value: Revisi Kebijakan  Distribusi Barang Penting/Barang Dalam Pengawasan
+Checking value: Identifikasi Masalah
+Checking value: Pelaksanaan FGD Terkait Komoditi Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Spanduk
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Bahan Rapat/Laporan Akhir
+Checking value: -
+Found isi: Makan rapat persiapan [20 ORG x 3 KL x 2 DRH]
+Checking value: -
+Found isi: Snack rapat persiapan [20 ORG x 3 KL x 2 DRH]
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 5 KL]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber [4 ORG x 3 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyelenggaran rapat paket fullday [35 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Paket Fullday [35 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [40 ORG x 1 HR x 1 DRH]
+Checking value: -
+Found isi: Transport Peserta [35 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [35 ORG x 1 HR x 1 DRH]
+Checking value: Koordinasi Penyusunan
+Checking value: Penyusunan dan Penyempurnaan Kebijakan Yang Terkait Dengan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan Pembahasan [35 ORG x 1 KEG x 5 KL]
+Checking value: -
+Found isi: Snack Pembahasan [35 ORG x 1 KEG x 5 KL]
+Checking value: >
+Found head: DALAM RANGKA RAPAT KOORDINASI TINGKAT MENTERI/ESELON I
+Checking value: -
+Found isi: Penyusunan/penggandaan dan penjilidan laporan
+Checking value: -
+Found isi: Konsumsi Rapat dalam rangka Penyusunan dan Penyempurnaan Kebijakan [44 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan bahan rapat
+Checking value: -
+Found isi: Pembuatan Spanduk
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [1 PKT x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Transport Dalam Kota [35 ORG x 3 KL x 2 KEG]
+Checking value: Koordinasi[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Pertanian
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Penyediaan Informasi Perdagangan Bapok Tanaman Pangan Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 7 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI
+Checking value: -
+Found isi: Tiket [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 7 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 7 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 7 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN RAKOR/FGD
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 20 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [25 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [25 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Koordinasi Penyediaan Informasi Perdagangan Bapok Hortikultura Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Kudapan Rapat [25 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan [1 PKT x 3 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: Perlengkapan Peserta [30 ORG x 1 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: ATK dan Komputer Suplies [2 PKT x 2 KL]
+Checking value: >
+Found head: DALAM RANGKA FGD
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGUATAN INFORMASI
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 9 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [4 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [1 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI
+Checking value: -
+Found isi: Tiket [2 ORG x 9 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 9 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 9 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 9 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI UNDANGAN RAKOR/FGD
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 20 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Rapat/Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Transport dan Uang Harian Fullday Peserta [30 ORG x 1 HR x 1 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [30 ORG x 1 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [25 ORG x 1 HR x 1 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [25 ORG x 1 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [2 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [2 ORG x 1 HR x 1 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [3 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [3 ORG x 1 KL]
+Checking value: -
+Found isi: Biaya Penginapan [3 ORG x 2 HR x 1 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 2 HR x 1 KL]
+Checking value: Pelaksanaan Forum Komunikasi dan Fasilitasi Perdagangan Bapok Pertanian Antar Wilayah
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [70 ORG x 2 KL]
+Checking value: -
+Found isi: Spanduk [1 PKT x 2 KL]
+Checking value: -
+Found isi: Pelaporan [1 PKT x 2 KL]
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PANITIA DAERAH
+Checking value: -
+Found isi: Anggota [3 ORG x 2 KEG]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 2 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [2 UNIT x 2 HR x 2 DRH]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Narasumber (setara Eselon II) [5 ORG x 2 JPL x 2 KL]
+Checking value: -
+Found isi: Moderator [2 ORG x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Pertemuan Fullday [85 ORG x 2 KL]
+Checking value: -
+Found isi: Uang Harian Peserta (Fullday) [70 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport Lokal Peserta [70 ORG x 2 KL]
+Checking value: -
+Found isi: Transport Lokal Panitia Daerah [2 ORG x 1 HR x 2 KL]
+Checking value: >
+Found head: PANITIA
+Checking value: -
+Found isi: Tiket [4 ORG x 2 KL]
+Checking value: -
+Found isi: Taksi [4 ORG x 2 KL]
+Checking value: -
+Found isi: Biaya Penginapan [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [4 ORG x 1 HR x 2 KL]
+Checking value: >
+Found head: NARASUMBER
+Checking value: -
+Found isi: Tiket [4 ORG x 2 KL]
+Checking value: -
+Found isi: Taksi [4 ORG x 2 KL]
+Checking value: -
+Found isi: Biaya Penginapan [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [4 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday [4 ORG x 1 HR x 2 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Hasil Peternakan dan Perikanan
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Penyediaan Data dan Informasi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: -
+Found isi: Konsumsi Pendampingan [20 ORG x 2 KL]
+Checking value: -
+Found isi: Kudapan Pendampingan [20 ORG x 2 KL]
+Checking value: >
+Found head: DALAM RANGKA RAPAT KEGIATAN KOORDINASI
+Checking value: -
+Found isi: Makan Rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack Rapat [25 ORG x 3 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 3 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI RAPAT DAN KEGIATAN KOORDINASI ANTAR INSTANSI DI DAERAH
+Checking value: -
+Found isi: Tiket [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 10 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 10 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Uang Harian Petugas Daerah [2 ORG x 1 HR x 10 DRH]
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI, MENGHADIRI RAPAT, PENGUMPULAN DATA DI PUSAT
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota [2 ORG x 58 KL]
+Checking value: Forum Komunikasi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Perlengkapan Peserta [40 ORG x 4 KL]
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan/laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK  Komputer suplies [1 PKT x 4 KL]
+Checking value: Belanja Jasa Profesi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA FGD BAPOK HASIL PETERNAKAN
+Checking value: -
+Found isi: Narasumber [2 ORG x 2 JPL x 3 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 2 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 2 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA FGD (Tk. Es. 2)
+Checking value: -
+Found isi: Penyelenggaraan Paket Meeting Fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport lokal [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Uang harian paket fullday [35 ORG x 1 HR x 2 KL]
+Checking value: Belanja Perjalanan Dinas Paket Meeting Luar Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Paket Meeting Fullday [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Peserta [35 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Transport peserta [30 ORG x 1 HR x 2 KL]
+Checking value: -
+Found isi: Tiket [8 ORG x 1 KL]
+Checking value: -
+Found isi: Taksi [8 ORG x 2 KL]
+Checking value: -
+Found isi: Penginapan [8 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang harian [8 ORG x 2 HR x 2 KL]
+Checking value: -
+Found isi: Uang Harian Fullday Pelaksana [8 ORG x 1 HR x 2 KL]
+Checking value: Pendampingan Pelaporan Distribusi Perdagangan  Komoditas Hasil Peternakan dan Perikanan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 6 KL]
+Checking value: -
+Found isi: Snack rapat [25 ORG x 6 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 5 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 2 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [3 ORG x 6 DRH]
+Checking value: -
+Found isi: Uang Penginapan [3 ORG x 2 HR x 6 KL]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 3 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping [2 ORG x 1 HR x 4 DRH]
+Checking value: Pemetaan Potensi Perdagangan Komoditas Hasil Peternakan
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Snack Rapat [25 ORG x 3 KL]
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Suplies [1 PKT x 3 BLN]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 2 HR x 4 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 6 DRH]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 6 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 6 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Pendamping Petugas Daerah [2 ORG x 1 HR x 6 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Hasil Industri
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Dalam Rangka Monitoring Kelancaran Pasokan Komoditi Barang Kebutuhan Pokok Hasil Industri
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 3 HR x 7 KL]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 8 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 8 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 8 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport lokal Pendamping Daerah [1 ORG x 1 HR x 15 KL]
+Checking value: Koordinasi Pengembangan Perdagangan Komoditas Barang Penting
+Checking value: Pelaksanaan Koordinasi
+Checking value: Koordinasi Perdagangan Komoditas Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan Rapat Biasa [60 ORG x 5 KL]
+Checking value: -
+Found isi: Snack Rapat Biasa [60 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan bahan dan penjilidan laporan
+Checking value: >
+Found head: DALAM RANGKA RAPAT KEGIATAN KOORDINASI
+Checking value: -
+Found isi: Makan Rapat Persiapan Kegiatan Koordinasi [50 ORG x 5 KL]
+Checking value: -
+Found isi: Snack Rapat Persiapan Kegiatan Koordinasi [50 ORG x 5 KL]
+Checking value: -
+Found isi: Penggandaan Bahan dan Penjilidan Laporan
+Checking value: -
+Found isi: Merchandise Narasumber [2 ORG x 3 KL x 5 PRSH]
+Checking value: -
+Found isi: Brosur [2 ORG x 5 KL x 5 PRSH x 20 LBR
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK dan Komputer Supplies [4 PKT x 1 KL]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 UNIT x 3 HR x 5 DRH]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA MENGHADIRI RAPAT KEGIATAN KOORDINASI ANTAR INSTANSI DI DAERAH DAN PENDAMPINGAN KUNKER
+Checking value: -
+Found isi: Tiket [2 ORG x 5 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 5 KL]
+Checking value: -
+Found isi: Uang Penginapan [2 ORG x 2 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 5 KL]
+Checking value: -
+Found isi: Uang Harian Petugas Daerah [2 ORG x 3 HR x 5 KL]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA KOORDINASI MENGHADIRI RAPAT PENGUMPULAN DATA DI PUSAT
+Checking value: -
+Found isi: Transport lokal menghadiri rapat dalam kota
+Checking value: Koordinasi  Intervensi  Harga Bapok Menjelang HBKN
+Checking value: Koordinasi dalam rangka stabilisasi harga menjelang HBKN
+Checking value: Koordinasi Dalam Rangka Stabilisasi Harga Menjelang HBKN
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan [5 EKS x 25 KL]
+Checking value: -
+Found isi: Konsumsi rapat persiapan [20 ORG x 10 KEG]
+Checking value: -
+Found isi: Konsumsi Kunjungan Kerja Pimpinan [30 ORG x 25 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Supplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa Kendaraan [1 UNIT x 25 DRH x 2 HR]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pemantauan Harga Bapok Periode HBKN
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [3 ORG x 25 DRH]
+Checking value: -
+Found isi: Hotel [3 ORG x 25 DRH x 2 HR]
+Checking value: -
+Found isi: Uang Harian [3 ORG x 25 DRH x 3 HR]
+Checking value: Data dan Informasi Publik[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Penyediaan Data Harga Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Mengumpulkan, Mengolah dan Mempublikasikan Data Harga Barang Kebutuhan Pokok dan Barang Penting
+Checking value: Pengumpulan, Pengolahan Dan Publikasi Harga Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENYUSUNAN BAHAN PUBLIKASI
+Checking value: -
+Found isi: Konsumsi rapat pembahasan [20 ORG x 12 KL]
+Checking value: -
+Found isi: Pencetakan buku statistik harga barang kebutuhan pokok dan Barang Penting
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Koordinasi Penguatan Data Bapokting
+Checking value: Koordinasi Penguatan Data Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Konsumsi rapat [15 ORG x 12 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Sewa kendaraan [1 MBL x 25 DRH x 1 HR]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 30 DRH]
+Checking value: -
+Found isi: Hotel [2 ORG x 2 HR x 30 DRH]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 3 HR x 30 DRH]
+Checking value: Peningkatan Kualitas dan Ketersediaan Data Harga dan Stok
+Checking value: Pemantauan Stok Dan Pasokan Barang Kebutuhan Pokok Dan Barang Penting
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penyediaan Data Harga dan Pasokan  Cabe dan Bawang di Pasar Induk Wilayah Barat
+Checking value: -
+Found isi: Penyediaan Data Harga dan Pasokan Cabe dan Bawang di Pasar Induk Wilayah Timur
+Checking value: Operasionalisasi Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP)
+Found main: Operasionalisasi Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP)
+Checking value: Aktivasi Sistem Pemantauan Harga Barang Kebutuhan Pokok Dan Barang Penting Kementerian Perdagangan
+Checking value: Belanja Honor Output Kegiatan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Honor Kontributor Data Harga di Pasar Rakyat di Kabupaten/Kota [548 DRH x 244 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pengadaan Alat Tulis Kantor dan Komputer Suplies
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Timur
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Tengah
+Checking value: -
+Found isi: Verifikasi Data Harga Barang Kebutuhan Pokok dan Barang Penting di Kab/Kota Wilayah Barat
+Checking value: -
+Found isi: Pemantauan Harga Barang Penting
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Transport Lokal Kontributor 2 Pasar Induk [2 PSR x 240 KL]
+Checking value: -
+Found isi: Transport Lokal validasi data harga di Pasar Rakyat [5 PSR x 4 KL x 12 BLN]
+Checking value: -
+Found isi: Transport Lokal Pertemuan Stabilisasi Harga Barang Kebutuhan Pokok dan Barang Penting [3 ORG x 5 KL x 12 BL]
+Checking value: Program Dukungan Manajemen
+Checking value: Dukungan Manajemen dan Dukungan Teknis Lainnya Ditjen Perdagangan Dalam Negeri
+Checking value: Layanan Dukungan Manajemen Internal[Base Line]
+Checking value: Lokasi : KOTA JAKARTA PUSAT
+Checking value: Layanan Organisasi dan Tata Kelola Internal
+Checking value: Layanan Dukungan Manajemen Direktorat BAPOKTING
+Checking value: Monitoring Pelaksanaan Program Direktorat
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Penggandaan Laporan Kinerja [1 PKT x 2 SMT]
+Checking value: -
+Found isi: Penggandaan dan penjilidan bahan [1 PKT x 2 SMT]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK Komputer supplies
+Checking value: Pengelolaan Keuangan Dan BMN
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN SAI
+Checking value: -
+Found isi: Penggandaan dan Penjilidan Lap SAI [4 TW x 2 LAP x 6 EKS]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN SAI
+Checking value: -
+Found isi: ATK dan komputer supplies [12 BLN x 1 PKT]
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN BMN
+Checking value: -
+Found isi: ATK dan Komputer Supplies [12 BLN x 1 PKT]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA PENGELOLAAN KEUANGAN DAN BMN
+Checking value: -
+Found isi: Transport Lokal Petugas Administrasi Keuangan [2 ORG x 12 BLN x 2 KL]
+Checking value: Penguatan Pembinaan Kinerja Internal
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: ATK  Komputer Supplies [1 PKT]
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pelatihan diversity, equity, and inclusion (DEI)
+Checking value: -
+Found isi: Fasilitasi Pelatihan Dalam Rangka HUT RI [1 KL x 1 PKT]
+Checking value: -
+Found isi: Fasilitasi Pelatihan Olahraga Bagi Pegawai [12 BLN x 1 PKT]
+Checking value: Keikutsertaan Pada Sosialisasi/Workshop/Seminar/Forum/Pelaksanaan Kegiatan Internal
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Tiket [2 ORG x 22 KL]
+Checking value: -
+Found isi: Taksi [2 ORG x 22 KL]
+Checking value: -
+Found isi: Uang Harian [2 ORG x 22 KL x 3 HR]
+Checking value: -
+Found isi: Penginapan [2 ORG x 22 KL x 2 HR]
+Checking value: Layanan Perkantoran
+Checking value: Operasional dan Pemeliharaan Kantor
+Checking value: Operasional Kantor
+Checking value: Belanja Keperluan Perkantoran
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Keperluan sehari-hari perkantoran di dalam negeri [51 PEG x 1 THN]
+Checking value: -
+Found isi: Supir [1 ORG x 13 BLN]
+Checking value: Belanja Honor Operasional Satuan Kerja
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Kuasa pengguna anggaran [1 ORG x 12 BL]
+Checking value: -
+Found isi: Pejabat pembuat komitmen [1 ORG x 12 BL]
+Checking value: -
+Found isi: Penguji/penandatangan SPM [1 ORG x 12 BL]
+Checking value: -
+Found isi: Bendahara pengeluaran [1 ORG x 12 BL]
+Checking value: -
+Found isi: Staff pengelola keuangan [3 ORG x 12 BL]
+Checking value: -
+Found isi: Penanggung jawab SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Koordinator SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Ketua SAI tk UAKPA [1 ORG x 12 BL]
+Checking value: -
+Found isi: Petugas SAI tk UAKPA [2 ORG x 12 BL]
+Checking value: -
+Found isi: Pengurus/Penyimpan BMN [1 ORG x 12 BLN]
+Checking value: -
+Found isi: Pejabat pengadaan barang dan jasa [1 ORG x 12 BL]
+Checking value: Belanja Bahan
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Makan dalam rangka rapat pimpinan [15 ORG x 12 KL]
+Checking value: -
+Found isi: Snack dalam rangka rapat pimpinan [15 ORG x 12 KL]
+Checking value: Belanja Barang Persediaan Barang Konsumsi
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PENGADAAN TATA USAHA PIMPINAN
+Checking value: -
+Found isi: Pengadaan ATK dan komputer supplies
+Checking value: >
+Found head: PENGADAAN TATA USAHA
+Checking value: -
+Found isi: Pengadaan ATK dan komputer supplies
+Checking value: Belanja Langganan Telepon
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Biaya telepon dan data Internet [12 BL x 1 PKT]
+Checking value: Belanja Sewa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: SEWA KENDARAAN OPERASIONAL
+Checking value: -
+Found isi: Sewa kendaraan Operasional Roda 4 [1 UNIT x 12 BLN]
+Checking value: -
+Found isi: Sewa Kendaraan Daerah Roda 4 [1 UNIT x 19 DRH x 3 HR]
+Checking value: >
+Found head: DUKUNGAN INPRES NOMOR 7 TAHUN 2022
+Checking value: -
+Found isi: Sewa Kendaraan Operasional Listrik [1 UNIT x 12 BLN]
+Checking value: >
+Found head: SEWA LAINNYA
+Checking value: -
+Found isi: Sewa mesin fotocopy [2 UNIT x 12 BLN]
+Checking value: -
+Found isi: Sewa Kembang [3 PKT x 12 BLN]
+Checking value: -
+Found isi: Sewa Air Purefier [1 UNIT x 12 BLN]
+Checking value: Belanja Perjalanan Dinas Biasa
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PERJALANAN PIMPINAN/PENUGASAN PIMPINAN DALAM NEGERI
+Checking value: -
+Found isi: Tiket [1 ORG x 18 DRH]
+Checking value: -
+Found isi: Taksi [1 ORG x 18 DRH]
+Checking value: -
+Found isi: Uang penginapan [1 ORG x 2 HR x 18 DRH]
+Checking value: -
+Found isi: Uang harian [1 ORG x 3 HR x 18 DRH]
+Checking value: -
+Found isi: Uang Representasi [1 ORG x 18 DRH x 3 HR]
+Checking value: >
+Found head: PENUGASAN PIMPINAN DALAM NEGERI
+Checking value: -
+Found isi: Tiket [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Taksi [2 ORG x 10 DRH]
+Checking value: -
+Found isi: Uang penginapan [2 ORG x 2 HR x 10 DRH]
+Checking value: -
+Found isi: Uang harian [2 ORG x 3 HR x 10 DRH]
+Checking value: Belanja Perjalanan Dinas Dalam Kota
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: DALAM RANGKA OPERASIONAL KANTOR
+Checking value: -
+Found isi: Satuan Biaya Transport Kegiatan Dalam Kabupaten/Kota Pergi Pulang (PP) [2 ORG x 6 KL x 12 BL]
+Checking value: Pemeliharaan
+Checking value: Belanja Jasa Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: -
+Found isi: Pest Control [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Penataan Ruang Fasilitas Pegawai
+Checking value: -
+Found isi: Disinfektan Ruang Kerja [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Sanitary dan Pengharum ruangan [1 PKT x 12 BLN]
+Checking value: -
+Found isi: Perawatan karpet [1 PKT x 12 BLN]
+Checking value: Belanja Pemeliharaan Peralatan dan Mesin
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: BIAYA PERPANJANGAN STNK
+Checking value: -
+Found isi: Kendaraan eselon 2
+Checking value: -
+Found isi: Kendaraan dinas operasional roda 2
+Checking value: -
+Found isi: Kendaraan dinas operasional roda 4
+Checking value: -
+Found isi: Kendaraan Eselon II Nomor Khusus
+Checking value: Belanja Pemeliharaan Peralatan dan Mesin Lainnya
+Checking value: (KPPN.175-Jakarta VI )
+Found main: (KPPN.175-Jakarta VI )
+Checking value: >
+Found head: PEMELIHARAAN PERALATAN KANTOR
+Checking value: -
+Found isi: Pemeliharaan Inventaris Kantor [51 PEG x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan Personal Computer/Notebook [43 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan Printer [10 PEG x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan AC Split [14 UNIT x 1 THN]
+Checking value: -
+Found isi: Elektronik Lainnya [20 UNIT x 1 THN]
+Checking value: -
+Found isi: Alat Elektronik Lainnya [50 UNIT x 1 THN]
+Checking value: >
+Found head: PEMELIHARAAN KENDARAAN DINAS
+Checking value: -
+Found isi: Pemeliharaan kendaraan dinas eselon 2 [1 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan dinas operasional roda 2 [4 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan operasional roda 4 [3 UNIT x 1 THN]
+Checking value: -
+Found isi: Pemeliharaan kendaraan operasional roda 4 Sewa [3 UNIT x 1 THN]
