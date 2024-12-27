@@ -2,6 +2,8 @@
 session_start();
 if (isset($_SESSION['email'])) {
     if ($_SESSION['role'] == 2) {
+        header("Location: rkakl/index.php");
+    } else if ($_SESSION['role'] == 1) {
         header("Location: admin/dashboard.php");
     }
 }
@@ -123,7 +125,7 @@ if (isset($_SESSION['email'])) {
 
 <body>
     <div class="login-container">
-        <h2>Login RKAKL</h2>
+        <h2>Login Admin</h2>
         <?php
         if (isset($_GET['error'])) {
             echo "<div class='error-msg'>Email atau password salah!</div>";
@@ -139,6 +141,15 @@ if (isset($_SESSION['email'])) {
                 <input type="password" name="password" required placeholder="Masukkan password">
             </div>
             <div class="form-group">
+                <label>Tahun</label>
+                <select name="tahun" id="tahun-picker" required>
+                    <?php 
+                    $currentYear = date('Y');
+                    for($i = $currentYear + 2; $i >= $currentYear-9; $i--) {
+                        echo "<option value='$i'>$i</option>";
+                    }
+                    ?>
+                </select>
             </div>
             <button type="submit">Login</button>
         </form>

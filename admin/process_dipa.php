@@ -1,4 +1,5 @@
 <?php
+session_start();
 // Debug info
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
@@ -27,11 +28,11 @@ if (isset($_POST['submit-dipa'])) {
     $err = "";
     $success = "";
 
-    $query = "SHOW TABLES LIKE 'Dipa'";
+    $query = "SHOW TABLES LIKE 'dipa'";
     $result = mysqli_query($koneksi, $query);
 
     if (mysqli_num_rows($result) == 0) {
-            $createTableQuery = "CREATE TABLE IF NOT EXISTS Dipa (
+            $createTableQuery = "CREATE TABLE IF NOT EXISTS dipa (
             Kode_khusus VARCHAR(255),
             aea Varchar(30),
             kode_angka Varchar(30),
@@ -51,7 +52,8 @@ if (isset($_POST['submit-dipa'])) {
             berdasarkan VARCHAR(255),
             jenis VARCHAR(10),
             status VARCHAR(20),
-            jml_blokir BIGINT
+            jml_blokir BIGINT,
+            tahun VARCHAR(4)
         );
         ";
         if (!mysqli_query($koneksi, $createTableQuery)) {
@@ -63,12 +65,12 @@ if (isset($_POST['submit-dipa'])) {
         }
 
     } else{
-        $checkQuery = "SELECT * FROM Dipa LIMIT 1";
+        $checkQuery = "SELECT * FROM dipa LIMIT 1";
         $checkResult = mysqli_query($koneksi, $checkQuery);
 
         if (mysqli_num_rows($checkResult) > 0) {
-            // Kosongkan tabel Dipa
-            $truncateQuery = "TRUNCATE TABLE Dipa";
+            // Kosongkan tabel dipa
+            $truncateQuery = "TRUNCATE TABLE dipa";
             if (!mysqli_query($koneksi, $truncateQuery)) {
                 die("Error emptying table: " . mysqli_error($koneksi));
             }
@@ -95,7 +97,7 @@ if (isset($_POST['submit-dipa'])) {
     
         // Jika $errorcuy == true, hapus tabel yang baru saja dibuat
         if ($errorcuy == true) {
-            $hapustableQuery = "DELETE FROM Dipa
+            $hapustableQuery = "DELETE FROM dipa
             WHERE nama_tabel = `$file_name`;
             ";
             if (mysqli_query($koneksi, $hapustableQuery)) {
@@ -112,8 +114,8 @@ if (isset($_POST['submit-dipa'])) {
         $kd_bid = "";
 
 
-        $stmt = $koneksi->prepare("INSERT INTO dipa (Kode_khusus, aea, kode_angka, kode_tunggal, nomor, baris_kode, akun, pic, uraian, rincian, kegiatan, pagu1, pagu2, kode, nama_tabel, jenis, status, jml_blokir) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-        $stmt->bind_param("ssssissssiissssssi", $kode_khusus, $Kode_Lengkap, $Kode_Angka, $Kode_Huruf_Tunggal, $nomor, $kode_asli, $akun, $pic, $uraian, $rincian, $kegiatan, $pagu1, $pagu2, $kode, $file_name, $jenis, $status, $jml_blokir);
+        $stmt = $koneksi->prepare("INSERT INTO dipa (Kode_khusus, aea, kode_angka, kode_tunggal, nomor, baris_kode, akun, pic, uraian, rincian, kegiatan, pagu1, pagu2, kode, nama_tabel, jenis, status, jml_blokir, tahun) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $stmt->bind_param("ssssissssiissssssss", $kode_khusus, $Kode_Lengkap, $Kode_Angka, $Kode_Huruf_Tunggal, $nomor, $kode_asli, $akun, $pic, $uraian, $rincian, $kegiatan, $pagu1, $pagu2, $kode, $file_name, $jenis, $status, $jml_blokir, $_SESSION['tahun']);
 
         
 
@@ -445,7 +447,8 @@ if (isset($_POST['submit-dipa'])) {
                     'nama_tabel' => $file_name,
                     'jenis' => $jenis,
                     'status' => $status,
-                    'jml_blokir' => $jml_blokir
+                    'jml_blokir' => $jml_blokir,
+                    'tahun' => $_SESSION['tahun']
                 ];
 
                 $nomor++; // Increment nomor for each row
@@ -453,7 +456,7 @@ if (isset($_POST['submit-dipa'])) {
                 if (count($batch) >= $batch_size) {
                     foreach ($batch as $data) {
                         $stmt->bind_param(
-                            "ssssissssiissssssi",
+                            "ssssissssiissssssss",
                             $data['kode_khusus'],
                             $data['kode_lengkap'],
                             $data['Kode_angka'],
@@ -471,7 +474,8 @@ if (isset($_POST['submit-dipa'])) {
                             $data['nama_tabel'],
                             $data['jenis'],
                             $data['status'],
-                            $data['jml_blokir']
+                            $data['jml_blokir'],
+                            $data['tahun']
                         );
 
                         if (!$stmt->execute()) {
@@ -492,7 +496,7 @@ if (isset($_POST['submit-dipa'])) {
         // Insert remaining data in batch
         foreach ($batch as $data) {
             $stmt->bind_param(
-                "ssssissssiissssssi",
+                "ssssissssiissssssss",
                 $data['kode_khusus'],
                 $data['kode_lengkap'],
                 $data['Kode_angka'],
@@ -510,7 +514,8 @@ if (isset($_POST['submit-dipa'])) {
                 $data['nama_tabel'],
                 $data['jenis'],
                 $data['status'],
-                $data['jml_blokir']
+                $data['jml_blokir'],
+                $data['tahun']
             );
 
             if (!$stmt->execute()) {

@@ -454,7 +454,7 @@ button:hover {
                 <div class="d-flex align-items-center ml-auto">
                     <h1 class="nama">-</h1>
                     <div class="separator"></div>
-                    <a class="logout" href="../logout.php">Log Out</a>
+                    <a class="logout" href="../logout-admin.php">Log Out</a>
                 </div>
             </div>
         </nav>

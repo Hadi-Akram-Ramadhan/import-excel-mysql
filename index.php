@@ -125,7 +125,7 @@ if (isset($_SESSION['email'])) {
 
 <body>
     <div class="login-container">
-        <h2>Login RKAKL</h2>
+        <h2>Login User</h2>
         <?php
         if (isset($_GET['error'])) {
             echo "<div class='error-msg'>Email atau password salah!</div>";
