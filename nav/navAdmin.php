@@ -470,7 +470,9 @@ button:hover {
         </div>
         <div class="submenu" id="submenu-manage">
             <ul>
-                <li><a href="../admin/upload-rkakl.php">Upload RKAKL</a></li>
+                <li><a href="../admin/upload-rkakl.php">Tambah RKAKL</a></li>
+                <li><a href="../admin/tambah-timker.php">Tambah Tim Kerja</a></li>
+                <li><a href="../admin/tambah-akun.php">Tambah Akun</a></li>
             </ul>
         </div>
 
@@ -479,8 +481,7 @@ button:hover {
         </div>
         <div class="submenu" id="submenu-auth">
             <ul>
-                <li><a href="../admin/tambah-timker.php">Tambah Tim Kerja</a></li>
-                <li><a href="../admin/tambah-akun.php">Tambah Akun</a></li>
+                <li><a href="../admin/kegiatan.php">Update Kegiatan</a></li>
             </ul>
         </div>
 
