@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpoffice/phpspreadsheet": "^3.6"
+        "phpoffice/phpspreadsheet": "^3.6",
+        "composer/semver": "^3.4"
     }
 }
