@@ -171,6 +171,12 @@ require '../nav/navAdmin.php'
         z-index: 999999999 !important;
         /* Pastiin nilainya lebih tinggi dari modal */
     }
+
+    .form-title {
+        text-align: center;
+        padding: 10px;
+        font-size: 1.5rem;
+    }
     </style>
 </head>
 

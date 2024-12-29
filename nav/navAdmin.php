@@ -481,7 +481,7 @@ button:hover {
         </div>
         <div class="submenu" id="submenu-auth">
             <ul>
-                <li><a href="../admin/kegiatan.php">Update Kegiatan</a></li>
+                <li><a href="../admin/kegiatan.php">Atur Kegiatan</a></li>
             </ul>
         </div>
 

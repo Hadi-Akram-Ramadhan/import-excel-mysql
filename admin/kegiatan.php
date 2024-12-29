@@ -198,16 +198,22 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
         z-index: 999999999 !important;
         /* Pastiin nilainya lebih tinggi dari modal */
     }
+
+    .form-title {
+        text-align: center;
+        padding: 10px;
+        font-size: 1.5rem;
+    }
     </style>
 </head>
 
 <body>
     <div class="table-container">
         <table class="table table-bordered table-hover">
+            <h2 class="form-title">Atur Kegiatan</h2>
             <thead>
                 <tr>
                     <th>Kode Khusus</th>
-                    <th>Kode Tunggal</th>
                     <th>Uraian</th>
                     <th>PIC</th>
                     <th>Action</th>
@@ -217,7 +223,6 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
                 <?php while($row = mysqli_fetch_assoc($result)) { ?>
                 <tr>
                     <td><?php echo $row['Kode_khusus']; ?></td>
-                    <td><?php echo $row['kode_tunggal']; ?></td>
                     <td><?php echo $row['uraian']; ?></td>
                     <td>
                         <select class="form-control pic-select" data-kode="<?php echo $row['Kode_khusus']; ?>">
