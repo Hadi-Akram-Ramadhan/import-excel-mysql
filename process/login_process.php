@@ -7,6 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'];
     $password = $_POST['password'];
     $tahun = $_POST['tahun'];
+    $role = $_POST['role'];
 
     $query = "SELECT * FROM akun WHERE email = '$email' AND password = '$password'";
     $result = mysqli_query($koneksi, $query);
@@ -17,6 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_SESSION['role'] = $row['role'];
         $_SESSION['tahun'] = $tahun;
         $_SESSION['bidang'] = $row['bidang'];
+        $_SESSION['role'] = $row['role'];
         
         if ($row['role'] == 2) {
             header("Location: ../rkakl/index.php");

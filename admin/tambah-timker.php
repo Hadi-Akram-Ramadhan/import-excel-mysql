@@ -115,10 +115,6 @@ if(isset($_GET['delete'])) {
                             </div>
                             <div class="d-flex gap-2">
                                 <button type="submit" name="submit" class="btn btn-primary">Tambah Tim Kerja</button>
-                                <button type="button" class="btn btn-info" data-bs-toggle="modal"
-                                    data-bs-target="#timKerjaModal">
-                                    Lihat Data Tim Kerja
-                                </button>
                             </div>
                         </form>
                     </div>

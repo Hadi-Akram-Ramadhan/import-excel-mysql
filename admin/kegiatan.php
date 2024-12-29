@@ -103,6 +103,25 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
 
     .table {
         margin-bottom: 2rem;
+        table-layout: fixed;
+    }
+
+    .table th,
+    .table td {
+        width: 200px;
+        white-space: normal;
+        overflow: visible;
+        text-overflow: clip;
+        padding: 12px 8px;
+        vertical-align: top;
+        word-wrap: break-word;
+    }
+
+    .table th:last-child,
+    .table td:last-child {
+        width: 80px;
+        text-align: center;
+        vertical-align: middle;
     }
 
     .table thead th {
@@ -115,6 +134,7 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
 
     .table tbody tr {
         transition: background 0.3s ease;
+        min-height: 50px;
     }
 
     .table tbody tr:hover {
@@ -204,6 +224,79 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
         padding: 10px;
         font-size: 1.5rem;
     }
+
+    .pic-container {
+        position: relative;
+    }
+
+    .pic-text {
+        display: inline-block;
+        padding: 8px;
+    }
+
+    .toggle-edit {
+        width: 35px;
+        height: 35px;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+    }
+
+    .btn-warning {
+        background: #ffa502;
+        border: none;
+        color: white;
+    }
+
+    .btn-success {
+        background: #20bf6b;
+        border: none;
+        color: white;
+    }
+
+    /* Style untuk dropdown select */
+    .pic-select {
+        width: 100%;
+        /* Full width */
+        white-space: normal;
+        /* Biar bisa wrap */
+        height: auto;
+        /* Auto height */
+        min-height: 38px;
+        /* Minimal height */
+    }
+
+    /* Style untuk option di dalam select */
+    .pic-select option {
+        padding: 8px;
+        white-space: normal;
+        /* Biar text bisa wrap */
+        word-wrap: break-word;
+        /* Force word wrap */
+        min-height: 30px;
+        /* Minimal height tiap option */
+        height: auto;
+        /* Auto height */
+    }
+
+    /* Container buat select */
+    .pic-container {
+        position: relative;
+        min-width: 200px;
+        /* Minimal width sama kaya kolom */
+        width: 100%;
+    }
+
+    /* Text PIC yang ditampilin */
+    .pic-text {
+        display: inline-block;
+        padding: 8px;
+        word-wrap: break-word;
+        /* Force word wrap */
+        width: 100%;
+    }
     </style>
 </head>
 
@@ -225,29 +318,29 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
                     <td><?php echo $row['Kode_khusus']; ?></td>
                     <td><?php echo $row['uraian']; ?></td>
                     <td>
-                        <select class="form-control pic-select" data-kode="<?php echo $row['Kode_khusus']; ?>">
-                            <?php 
-                            // Tampilin PIC yang udah ada sebagai default option
-                            if (!empty($row['pic'])) {
-                                echo "<option value='".$row['pic']."' selected>".$row['pic']."</option>";
-                            } else {
-                                echo "<option value=''>Pilih PIC</option>";
-                            }
-                            
-                            // Tampilin semua opsi tim
-                            foreach($tim_options as $tim) {
-                                // Skip kalo sama dengan yang udah dipilih
-                                if ($tim != $row['pic']) {
-                                    echo "<option value='".$tim."'>".$tim."</option>";
+                        <div class="pic-container">
+                            <span class="pic-text"><?php echo $row['pic']; ?></span>
+                            <select class="form-control pic-select" data-kode="<?php echo $row['Kode_khusus']; ?>"
+                                style="display: none;">
+                                <?php 
+                                if (!empty($row['pic'])) {
+                                    echo "<option value='".$row['pic']."' selected>".$row['pic']."</option>";
+                                } else {
+                                    echo "<option value=''>Pilih PIC</option>";
                                 }
-                            }
-                            ?>
-                        </select>
+                                
+                                foreach($tim_options as $tim) {
+                                    if ($tim != $row['pic']) {
+                                        echo "<option value='".$tim."'>".$tim."</option>";
+                                    }
+                                }
+                                ?>
+                            </select>
+                        </div>
                     </td>
                     <td>
-                        <button class="btn btn-warning btn-sm update-pic"
-                            data-kode="<?php echo $row['Kode_khusus']; ?>">
-                            Edit
+                        <button class="btn btn-sm toggle-edit" data-editing="false">
+                            <i class="fas fa-edit"></i>
                         </button>
                     </td>
                 </tr>
@@ -330,50 +423,82 @@ while($tim = mysqli_fetch_assoc($result_tim)) {
             });
         });
 
-        $('.update-pic').click(function() {
-            const kodeKhusus = $(this).data('kode');
-            const pic = $(this).closest('tr').find('.pic-select').val();
+        $('.toggle-edit').click(function() {
+            const btn = $(this);
+            const row = btn.closest('tr');
+            const picContainer = row.find('.pic-container');
+            const picText = picContainer.find('.pic-text');
+            const picSelect = picContainer.find('.pic-select');
 
-            if (!pic) {
-                Swal.fire({
-                    title: 'Error!',
-                    text: 'Pilih PIC dulu ya!',
-                    icon: 'warning'
-                });
-                return;
-            }
+            if (btn.data('editing') === false) {
+                // Mode edit
+                picText.hide();
+                picSelect.show();
+                btn.removeClass('btn-warning').addClass('btn-success');
+                btn.html('<i class="fas fa-check"></i>');
+                btn.data('editing', true);
+            } else {
+                // Mode save
+                const pic = picSelect.val();
+                const kode = picSelect.data('kode');
 
-            $.ajax({
-                url: 'update_pic.php',
-                type: 'POST',
-                data: {
-                    kode_khusus: kodeKhusus,
-                    pic: pic
-                },
-                success: function(response) {
-                    try {
-                        const result = JSON.parse(response);
-                        Swal.fire({
-                            title: result.success ? 'Success!' : 'Error!',
-                            text: result.message,
-                            icon: result.success ? 'success' : 'error'
-                        }).then(() => {
-                            if (result.success) {
-                                location.reload();
-                            }
-                        });
-                    } catch (e) {
-                        console.error('Error:', e);
-                    }
-                },
-                error: function(xhr, status, error) {
+                if (!pic) {
                     Swal.fire({
                         title: 'Error!',
-                        text: 'Terjadi kesalahan: ' + error,
-                        icon: 'error'
+                        text: 'Pilih PIC dulu ya!',
+                        icon: 'warning'
                     });
+                    return;
                 }
-            });
+
+                $.ajax({
+                    url: 'update_pic.php',
+                    type: 'POST',
+                    data: {
+                        kode_khusus: kode,
+                        pic: pic
+                    },
+                    success: function(response) {
+                        try {
+                            const result = JSON.parse(response);
+                            if (result.success) {
+                                picText.text(pic).show();
+                                picSelect.hide();
+                                btn.removeClass('btn-success').addClass('btn-warning');
+                                btn.html('<i class="fas fa-edit"></i>');
+                                btn.data('editing', false);
+
+                                Swal.fire({
+                                    title: 'Success!',
+                                    text: result.message,
+                                    icon: 'success'
+                                });
+                            } else {
+                                Swal.fire({
+                                    title: 'Error!',
+                                    text: result.message,
+                                    icon: 'error'
+                                });
+                            }
+                        } catch (e) {
+                            console.error('Error:', e);
+                            Swal.fire({
+                                title: 'Error!',
+                                text: 'Terjadi kesalahan sistem',
+                                icon: 'error'
+                            });
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        console.error('Ajax error:', error);
+                        Swal.fire({
+                            title: 'Error!',
+                            text: 'Gagal menghubungi server',
+                            icon: 'error'
+                        });
+                    }
+                });
+            }
         });
     });
     </script>
