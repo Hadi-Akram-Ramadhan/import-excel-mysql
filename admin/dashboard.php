@@ -171,6 +171,54 @@ $result = mysqli_query($koneksi, $query);
     .active-row {
         background-color: #e9ecef !important;
     }
+
+    .budget-details {
+        margin-top: 2rem;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 8px;
+    }
+
+    .budget-item {
+        text-align: center;
+    }
+
+    .total-amount {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #2d3436;
+        margin: 1rem 0;
+    }
+
+    .budget-breakdown {
+        margin-top: 1rem;
+    }
+
+    .breakdown-item {
+        margin: 1rem 0;
+        padding: 1rem;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    }
+
+    .breakdown-item h5 {
+        font-size: 0.9rem;
+        color: #636e72;
+        margin-bottom: 0.5rem;
+    }
+
+    .breakdown-item p {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #2d3436;
+        margin: 0.5rem 0;
+    }
+
+    .realization {
+        font-size: 0.9rem !important;
+        color: #00b894 !important;
+    }
     </style>
 </head>
 
@@ -213,9 +261,10 @@ $result = mysqli_query($koneksi, $query);
         </div>
 
         <div class="progress-section">
-            <h2 class="form-title">Progress</h2>
+            <h2 class="form-title">DIPA</h2>
             <div id="progressInfo">
-                <h4 style="font-size: 14px;">PIC: <span id="picInfo">-</span></h4>
+                <h4 style="font-size: 14px;">Kode Khusus: <span id="picInfo">-</span></h4>
+
                 <div class="chart-container">
                     <canvas id="budgetChart"></canvas>
                 </div>
@@ -284,23 +333,34 @@ $result = mysqli_query($koneksi, $query);
         fetch(`get_progress.php?action=chart&kode=${kodeKhusus}`)
             .then(response => response.json())
             .then(data => {
-                document.getElementById('picInfo').textContent = data.kode_khusus;
+                // Reset dulu konten progressInfo
+                document.getElementById('progressInfo').innerHTML = `
+                    <h4 style="font-size: 14px;">Kode Khusus: <span id="picInfo">${data.kode_khusus}</span></h4>
+                    <div class="chart-container">
+                        <canvas id="budgetChart"></canvas>
+                    </div>
+                    <div id="detailContainer"></div>
+                `;
 
-                if (myChart) myChart.destroy();
+                // Destroy chart lama kalo ada
+                if (myChart) {
+                    myChart.destroy();
+                }
 
+                // Bikin chart baru
                 const ctx = document.getElementById('budgetChart').getContext('2d');
                 myChart = new Chart(ctx, {
                     type: 'doughnut',
                     data: {
-                        labels: ['Total Pagu', 'Total Blokir'],
+                        labels: ['Pagu Anggaran', 'Anggaran Blokir'],
                         datasets: [{
                             data: [
-                                parseFloat(data.total_pagu) || 0,
-                                parseFloat(data.total_blokir) || 0
+                                parseFloat(data.total_pagu),
+                                parseFloat(data.total_blokir)
                             ],
                             backgroundColor: [
-                                'rgba(54, 162, 235, 0.8)', // Biru untuk pagu
-                                'rgba(255, 99, 132, 0.8)' // Merah untuk blokir
+                                'rgba(54, 162, 235, 0.8)',
+                                'rgba(255, 99, 132, 0.8)'
                             ],
                             borderColor: [
                                 'rgba(54, 162, 235, 1)',
@@ -309,32 +369,48 @@ $result = mysqli_query($koneksi, $query);
                             borderWidth: 1
                         }]
                     },
-                    options: chartOptions
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                position: 'bottom'
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        let value = context.raw;
+                                        return `${context.label}: ${formatCurrency(value)}`;
+                                    }
+                                }
+                            }
+                        }
+                    }
                 });
+
+                // Tambahin detail info
+                const detailHTML = `
+                    <div class="budget-details">
+                        <div class="budget-item">
+                            <h4>PAGU ANGGARAN</h4>
+                            <p class="total-amount">${formatCurrency(data.total_pagu)}</p>
+                            <p>Anggaran Blokir: ${formatCurrency(data.total_blokir)}</p>
+                        </div>
+                    </div>
+                `;
+
+                document.getElementById('detailContainer').innerHTML = detailHTML;
             });
     }
 
-    const chartOptions = {
-        responsive: true,
-        maintainAspectRatio: false,
-        plugins: {
-            legend: {
-                position: 'bottom'
-            },
-            tooltip: {
-                callbacks: {
-                    label: function(context) {
-                        let value = context.raw;
-                        return new Intl.NumberFormat('id-ID', {
-                            style: 'currency',
-                            currency: 'IDR',
-                            minimumFractionDigits: 0,
-                            maximumFractionDigits: 0
-                        }).format(value);
-                    }
-                }
-            }
-        }
+    // Helper function buat format currency
+    function formatCurrency(amount) {
+        return new Intl.NumberFormat('id-ID', {
+            style: 'currency',
+            currency: 'IDR',
+            minimumFractionDigits: 0,
+            maximumFractionDigits: 0
+        }).format(amount);
     }
     </script>
 </body>
