@@ -19,6 +19,14 @@ $rowBlokir = mysqli_fetch_assoc($resultBlokir);
 // Query original tetep ada
 $query = "SELECT DISTINCT pic FROM dipa WHERE pic IS NOT NULL AND pic != '' ORDER BY pic";
 $result = mysqli_query($koneksi, $query);
+
+// Ubah query untuk data tanpa PIC jadi query untuk semua kegiatan
+$queryKegiatan = "SELECT kode_khusus, uraian, pic, tahun
+                 FROM dipa 
+                 WHERE CHAR_LENGTH(Kode_khusus) = 26 
+                 AND CHAR_LENGTH(kode_tunggal) > 0 
+                 ORDER BY kode_khusus";
+$resultKegiatan = mysqli_query($koneksi, $queryKegiatan);
 ?>
 
 <!DOCTYPE html>
@@ -49,6 +57,7 @@ $result = mysqli_query($koneksi, $query);
         padding: 1rem;
         max-width: 1200px;
         margin: 0 auto;
+        margin-bottom: 3rem;
     }
 
     .table-section {
@@ -151,9 +160,8 @@ $result = mysqli_query($koneksi, $query);
     .chart-container {
         position: relative;
         width: 100%;
-        max-width: 400px;
-        height: 400px;
-        margin: 0 auto;
+        height: 300px;
+        margin: 2rem auto;
     }
 
     /* Style buat detail table */
@@ -191,15 +199,30 @@ $result = mysqli_query($koneksi, $query);
     }
 
     .budget-breakdown {
-        margin-top: 1rem;
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        position: relative;
     }
 
     .breakdown-item {
-        margin: 1rem 0;
-        padding: 1rem;
         background: white;
+        padding: 1rem;
         border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        position: relative;
+        margin-bottom: 2rem;
+    }
+
+    .indicator {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        position: absolute;
+        left: -6px;
+        top: 50%;
+        transform: translateY(-50%);
     }
 
     .breakdown-item h5 {
@@ -219,52 +242,113 @@ $result = mysqli_query($koneksi, $query);
         font-size: 0.9rem !important;
         color: #00b894 !important;
     }
+
+    .connector-line {
+        position: absolute;
+        border-left: 2px dashed #ccc;
+        height: 40px;
+        left: 50%;
+        top: -40px;
+    }
+
+    .connector-dot {
+        width: 10px;
+        height: 10px;
+        background: #ccc;
+        border-radius: 50%;
+        position: absolute;
+        left: 50%;
+        top: -45px;
+        transform: translateX(-50%);
+    }
     </style>
 </head>
 
 <body>
     <div class="summary-container">
         <div class="summary-box">
-            <h3>Total Pagu</h3>
+            <h3>TOTAL PAGU ANGGARAN</h3>
             <p><?php echo number_format($rowTotal['total_pagu_all'], 0, ',', '.'); ?></p>
         </div>
         <div class="summary-box">
-            <h3>Total Blokir</h3>
+            <h3>TOTAL BLOKIR ANGGARAN</h3>
             <p><?php echo number_format($rowBlokir['total_blokir_all'], 0, ',', '.'); ?></p>
+        </div>
+        <div class="summary-box" style="display: flex; flex-direction: column;">
+            <div>
+                <h3>TOTAL PAGU OPERASIONAL</h3>
+                <p><?php echo number_format($rowTotal['total_pagu_all'] - $rowBlokir['total_blokir_all'], 0, ',', '.'); ?>
+                </p>
+            </div>
+            <div style="display: flex; margin-top: 1rem; gap: 1rem;">
+                <div style="flex: 1;">
+                    <h3 style="font-size: 14px;">REALISASI</h3>
+                    <p style="font-size: 16px;">-</p>
+                </div>
+                <div style="flex: 1;">
+                    <h3 style="font-size: 14px;">SISA ANGGARAN</h3>
+                    <p style="font-size: 16px;">-</p>
+                </div>
+            </div>
         </div>
     </div>
 
     <div class="dashboard-container">
-        <div class="table-section">
-            <h2 class="form-title">Data DIPA</h2>
-            <p class="click-hint">👆 Klik PIC untuk melihat detail</p>
-            <table class="table table-bordered table-hover">
-                <thead>
-                    <tr>
-                        <th>PIC</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <?php while($row = mysqli_fetch_assoc($result)) { ?>
-                    <tr onclick="getDetail('<?php echo $row['pic']; ?>', this)" style="cursor: pointer">
-                        <td><?php echo $row['pic']; ?></td>
-                    </tr>
-                    <!-- Tambah row buat detail, awalnya hidden -->
-                    <tr class="detail-row" style="display: none;">
-                        <td colspan="1">
-                            <div class="detail-content"></div>
-                        </td>
-                    </tr>
-                    <?php } ?>
-                </tbody>
-            </table>
+        <div style="flex: 0.6; display: flex; flex-direction: column; gap: 1rem;">
+            <div class="table-section">
+                <h2 class="form-title">Data DIPA</h2>
+                <button onclick="resetFilter()" class="btn btn-sm btn-secondary mb-2">Tampilkan Semua</button>
+                <table class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>TIM KERJA</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <?php while($row = mysqli_fetch_assoc($result)) { ?>
+                        <tr onclick="getDetail('<?php echo $row['pic']; ?>', this)" style="cursor: pointer">
+                            <td><?php echo $row['pic']; ?></td>
+                        </tr>
+                        <!-- Tambah row buat detail, awalnya hidden -->
+                        <tr class="detail-row" style="display: none;">
+                            <td colspan="1">
+                                <div class="detail-content"></div>
+                            </td>
+                        </tr>
+                        <?php } ?>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-section">
+                <h2 class="form-title">Data Kegiatan</h2>
+                <table class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Kode Khusus</th>
+                            <th>Uraian</th>
+                            <th>Tim Kerja</th>
+                            <th>Tahun</th>
+                        </tr>
+                    </thead>
+                    <tbody id="kegiatanTableBody">
+                        <?php while($rowKegiatan = mysqli_fetch_assoc($resultKegiatan)) { ?>
+                        <tr onclick="getProgress('<?php echo $rowKegiatan['kode_khusus']; ?>')" style="cursor: pointer"
+                            data-pic="<?php echo $rowKegiatan['pic']; ?>">
+                            <td><?php echo $rowKegiatan['kode_khusus']; ?></td>
+                            <td><?php echo $rowKegiatan['uraian']; ?></td>
+                            <td><?php echo $rowKegiatan['pic'] ?: '-'; ?></td>
+                            <td><?php echo $rowKegiatan['tahun'] ?: '-'; ?></td>
+                        </tr>
+                        <?php } ?>
+                    </tbody>
+                </table>
+            </div>
         </div>
 
         <div class="progress-section">
-            <h2 class="form-title">DIPA</h2>
+            <h2 class="form-title">MONITORING DIPA</h2>
             <div id="progressInfo">
-                <h4 style="font-size: 14px;">Kode Khusus: <span id="picInfo">-</span></h4>
-
                 <div class="chart-container">
                     <canvas id="budgetChart"></canvas>
                 </div>
@@ -289,39 +373,15 @@ $result = mysqli_query($koneksi, $query);
         element.classList.add('active-row');
         activeRow = element;
 
-        // Hide semua detail row dulu
-        document.querySelectorAll('.detail-row').forEach(row => {
-            row.style.display = 'none';
+        // Filter tabel kegiatan
+        const rows = document.querySelectorAll('#kegiatanTableBody tr');
+        rows.forEach(row => {
+            if (pic === 'all' || row.getAttribute('data-pic') === pic) {
+                row.style.display = '';
+            } else {
+                row.style.display = 'none';
+            }
         });
-
-        // Show detail row yang dipilih
-        let detailRow = element.nextElementSibling;
-        detailRow.style.display = 'table-row';
-
-        // Fetch detail data
-        fetch(`get_progress.php?action=detail&pic=${pic}`)
-            .then(response => response.json())
-            .then(data => {
-                let detailContent = `
-                    <table class="table table-bordered table-hover detail-table">
-                        <thead>
-                            <tr>
-                                <th>Kode Khusus</th>
-                                <th>Uraian</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            ${data.map(item => `
-                                <tr onclick="getProgress('${item.kode_khusus}')" style="cursor: pointer">
-                                    <td>${item.kode_khusus}</td>
-                                    <td>${item.uraian}</td>
-                                </tr>
-                            `).join('')}
-                        </tbody>
-                    </table>
-                `;
-                detailRow.querySelector('.detail-content').innerHTML = detailContent;
-            });
     }
 
     function getProgress(kodeKhusus) {
@@ -333,21 +393,19 @@ $result = mysqli_query($koneksi, $query);
         fetch(`get_progress.php?action=chart&kode=${kodeKhusus}`)
             .then(response => response.json())
             .then(data => {
-                // Reset dulu konten progressInfo
+                // Reset konten progressInfo
                 document.getElementById('progressInfo').innerHTML = `
-                    <h4 style="font-size: 14px;">Kode Khusus: <span id="picInfo">${data.kode_khusus}</span></h4>
+                    
                     <div class="chart-container">
                         <canvas id="budgetChart"></canvas>
                     </div>
                     <div id="detailContainer"></div>
                 `;
 
-                // Destroy chart lama kalo ada
                 if (myChart) {
                     myChart.destroy();
                 }
 
-                // Bikin chart baru
                 const ctx = document.getElementById('budgetChart').getContext('2d');
                 myChart = new Chart(ctx, {
                     type: 'doughnut',
@@ -372,15 +430,15 @@ $result = mysqli_query($koneksi, $query);
                     options: {
                         responsive: true,
                         maintainAspectRatio: false,
+                        cutout: '70%',
                         plugins: {
                             legend: {
-                                position: 'bottom'
+                                display: false
                             },
                             tooltip: {
                                 callbacks: {
                                     label: function(context) {
-                                        let value = context.raw;
-                                        return `${context.label}: ${formatCurrency(value)}`;
+                                        return `${context.label}: ${formatCurrency(context.raw)}`;
                                     }
                                 }
                             }
@@ -388,13 +446,20 @@ $result = mysqli_query($koneksi, $query);
                     }
                 });
 
-                // Tambahin detail info
+                // Tambahin detail info dengan box
                 const detailHTML = `
-                    <div class="budget-details">
-                        <div class="budget-item">
-                            <h4>PAGU ANGGARAN</h4>
-                            <p class="total-amount">${formatCurrency(data.total_pagu)}</p>
-                            <p>Anggaran Blokir: ${formatCurrency(data.total_blokir)}</p>
+                    <div class="budget-breakdown">
+                        <div class="connector-line" style="border-left: 2px dashed rgba(54, 162, 235, 0.8)"></div>
+                        <div class="connector-dot" style="background: rgba(54, 162, 235, 0.8)"></div>
+                        <div class="breakdown-item">
+                            <div class="indicator" style="background: rgba(54, 162, 235, 0.8)"></div>
+                            <h5>PAGU ANGGARAN</h5>
+                            <p>${formatCurrency(data.total_pagu)}</p>
+                        </div>
+                        <div class="breakdown-item">
+                            <div class="indicator" style="background: rgba(255, 99, 132, 0.8)"></div>
+                            <h5>ANGGARAN BLOKIR</h5>
+                            <p>${formatCurrency(data.total_blokir)}</p>
                         </div>
                     </div>
                 `;
@@ -411,6 +476,16 @@ $result = mysqli_query($koneksi, $query);
             minimumFractionDigits: 0,
             maximumFractionDigits: 0
         }).format(amount);
+    }
+
+    // Tambah function untuk reset filter
+    function resetFilter() {
+        if (activeRow) {
+            activeRow.classList.remove('active-row');
+            activeRow = null;
+        }
+        const rows = document.querySelectorAll('#kegiatanTableBody tr');
+        rows.forEach(row => row.style.display = '');
     }
     </script>
 </body>
